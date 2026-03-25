@@ -199,9 +199,9 @@ export const websiteConfig = {
     // 页面显示的服务器地址
     displayAddress: "w-6.cc",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "ipv4.w-6.cc",
-    port: "25565",
-    version: "1.21.4",
+    apiAddress: "mc.classisband.xyz",
+    port: "37372",
+    version: "1.21.8",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
 
