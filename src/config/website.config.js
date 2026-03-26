@@ -2,10 +2,10 @@
 export const websiteConfig = {
   // 网站基本信息
   site: {
-    title: "晚晚服",
-    description: "欢迎来到晚晚服，探索无限可能的方块世界！",
-    keywords: "Minecraft,服务器,我的世界,Java版,生存,创造,生电",
-    author: "晚晚服",
+    title: "WanWanCraft",
+    description: "欢迎来到WanWanCraft，探索无限可能的方块世界！",
+    keywords: "Minecraft,我的世界,Java版,基岩版,生存,互通,生电",
+    author: "WanWanCraft",
     language: "zh-CN"
   },
 
@@ -24,7 +24,7 @@ export const websiteConfig = {
         pageTitle: {
           // 主标题配置（支持打字机效果）
           mainTitle: {
-            texts: ["欢迎来到 晚晚服", "Welcome to DuskCraft"], // 多语言标题数组
+            texts: ["欢迎来到 WanWanCraft", "Welcome to WanWanCraft"], // 多语言标题数组
             typewriter: {
               enabled: true, // 是否启用打字机效果
               speed: 100,    // 打字速度（毫秒）
@@ -67,7 +67,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["晚晚服服历程", "DCS History"],
+            texts: ["WanWanCraft服历程", "DCS History"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -88,7 +88,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["玩家排行榜", "DCS Leaderboard"],
+            texts: ["MinaWan排行榜", "DCS Leaderboard"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -109,7 +109,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["关于服务器", "About DCServer"],
+            texts: ["关于WanWanCraft", "About WanWanCraft"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -197,7 +197,7 @@ export const websiteConfig = {
   // 服务器配置
   server: {
     // 页面显示的服务器地址
-    displayAddress: "w-6.cc",
+    displayAddress: "mc.classisband.xyz:37372",
     // API请求使用的服务器地址（可以不同）
     apiAddress: "mc.classisband.xyz",
     port: "37372",
@@ -329,11 +329,11 @@ export const websiteConfig = {
         title: "服务器信息",
         icon: "information",
         items: [
-          { label: "服务器类别", value: "物理机" },
+          { label: "服务器类别", value: "云主机" },
           { label: "CPU", value: "i9-13900kf" },
-          { label: "内存", value: "128GB DDR5" },  
-          { label: "类型", value: "生存，生电，建筑" },
-          { label: "最大玩家", value: "100人" },
+          { label: "内存", value: "16GB DDR5" },  
+          { label: "类型", value: "生存，生电，互通" },
+          { label: "最大玩家", value: "40人" },
           { label: "在线时间", value: "7X24小时" }
         ]
       },
