@@ -257,7 +257,7 @@ export const websiteConfig = {
         showTotal: true
       },
       // 挖掘数
-      "fzsd.module.scoreboard.display.dig_count": {
+      "MiningList": {
         enabled: true,
         displayName: "方块挖掘",
         icon: "pickaxe",
@@ -273,7 +273,7 @@ export const websiteConfig = {
         showTotal: true
       },
       // 击杀数
-      "fzsd.module.scoreboard.display.kill_count": {
+      "KillEntityList": {
         enabled: true,
         displayName: "玩家击杀",
         icon: "sword",
@@ -281,7 +281,7 @@ export const websiteConfig = {
         showTotal: true
       },
       // 放置数
-      "fzsd.module.scoreboard.display.placement_count": {
+      "PlacingList": {
         enabled: true,
         displayName: "放置数量",
         icon: "placement",
