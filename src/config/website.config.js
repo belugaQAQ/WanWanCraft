@@ -88,7 +88,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["MinaWan排行榜", "DCS Leaderboard"],
+            texts: ["MinaWan排行榜", "MinaWan Leaderboard"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -249,7 +249,7 @@ export const websiteConfig = {
         showTotal: true
       },
       // 死亡次数
-      "DeathList": {
+      "fzsd.module.scoreboard.display.death_count": {
         enabled: true,
         displayName: "死亡次数",
         icon: "skull",
@@ -257,7 +257,7 @@ export const websiteConfig = {
         showTotal: true
       },
       // 挖掘数
-      "MiningList": {
+      "fzsd.module.scoreboard.display.dig_count": {
         enabled: true,
         displayName: "方块挖掘",
         icon: "pickaxe",
@@ -273,7 +273,7 @@ export const websiteConfig = {
         showTotal: true
       },
       // 击杀数
-      "KillEntityList": {
+      "fzsd.module.scoreboard.display.kill_count": {
         enabled: true,
         displayName: "玩家击杀",
         icon: "sword",
@@ -281,7 +281,7 @@ export const websiteConfig = {
         showTotal: true
       },
       // 放置数
-      "PlacingList": {
+      "fzsd.module.scoreboard.display.placement_count": {
         enabled: true,
         displayName: "放置数量",
         icon: "placement",
@@ -541,3 +541,13 @@ export function addNewPage(pageConfig) {
     layout: pageConfig.layout || "default"
   };
 }
+import { addNewPage } from '../config/website.config.js';
+
+addNewPage({
+    key: "newPage",
+    name: "新页面",
+    path: "/new-page",
+    icon: "mdi:star",
+    title: "新页面标题",
+    description: "页面描述"
+});
