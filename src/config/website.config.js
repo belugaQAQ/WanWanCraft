@@ -249,7 +249,7 @@ export const websiteConfig = {
         showTotal: true
       },
       // 死亡次数
-      "fzsd.module.scoreboard.display.death_count": {
+      "DeathList": {
         enabled: true,
         displayName: "死亡次数",
         icon: "skull",
