@@ -541,13 +541,3 @@ export function addNewPage(pageConfig) {
     layout: pageConfig.layout || "default"
   };
 }
-import { addNewPage } from '../config/website.config.js';
-
-addNewPage({
-    key: "newPage",
-    name: "新页面",
-    path: "/new-page",
-    icon: "mdi:star",
-    title: "新页面标题",
-    description: "页面描述"
-});
