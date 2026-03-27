@@ -1,8 +1,8 @@
 {
-  "export_time": "2026-03-27 13:56:26",
+  "export_time": "2026-03-27 14:31:02",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
-  "total_objectives": 1,
+  "total_objectives": 4,
   "objectives": {
     "DeathList": {
       "display_slot": null,
@@ -89,12 +89,301 @@
         "display_auto_update": 1,
         "DisplayName": "死亡列表Wan"
       }
+    },
+    "PlacingList": {
+      "display_slot": "sidebar",
+      "player_count": 19,
+      "player_scores": [
+        {
+          "player": "ZHAOMH233",
+          "score": 44881
+        },
+        {
+          "player": "redmountain_qaq",
+          "score": 17644
+        },
+        {
+          "player": "shekongQWQ",
+          "score": 16424
+        },
+        {
+          "player": "beluga14514",
+          "score": 11850
+        },
+        {
+          "player": "violawan",
+          "score": 10355
+        },
+        {
+          "player": "ling",
+          "score": 9406
+        },
+        {
+          "player": "Wu_Nen233",
+          "score": 8885
+        },
+        {
+          "player": "Takanou_Lizy",
+          "score": 6382
+        },
+        {
+          "player": "AiFuXi",
+          "score": 5786
+        },
+        {
+          "player": "NeitfinMiDI",
+          "score": 5032
+        },
+        {
+          "player": "Rikka_Rin",
+          "score": 4146
+        },
+        {
+          "player": "xizhe987",
+          "score": 3457
+        },
+        {
+          "player": "Shirobana",
+          "score": 2904
+        },
+        {
+          "player": "Leshian",
+          "score": 944
+        },
+        {
+          "player": "Apponir",
+          "score": 143
+        },
+        {
+          "player": "Blackcat_Mary",
+          "score": 16
+        },
+        {
+          "player": "sleep_zhao",
+          "score": 7
+        },
+        {
+          "player": "etern_",
+          "score": 2
+        },
+        {
+          "player": "be14514luga",
+          "score": 1
+        }
+      ],
+      "statistics": {
+        "total_players": 19,
+        "total_score": 148265,
+        "average_score": 7803.42,
+        "top_player": "ZHAOMH233",
+        "top_score": 44881
+      },
+      "objective_info": {
+        "Name": "PlacingList",
+        "display_auto_update": 1,
+        "DisplayName": "放置列表Wan"
+      }
+    },
+    "MiningList": {
+      "display_slot": null,
+      "player_count": 20,
+      "player_scores": [
+        {
+          "player": "ZHAOMH233",
+          "score": 157831
+        },
+        {
+          "player": "redmountain_qaq",
+          "score": 30598
+        },
+        {
+          "player": "ling",
+          "score": 27960
+        },
+        {
+          "player": "shekongQWQ",
+          "score": 25052
+        },
+        {
+          "player": "violawan",
+          "score": 18695
+        },
+        {
+          "player": "beluga14514",
+          "score": 13335
+        },
+        {
+          "player": "Takanou_Lizy",
+          "score": 12064
+        },
+        {
+          "player": "Wu_Nen233",
+          "score": 10498
+        },
+        {
+          "player": "xizhe987",
+          "score": 10474
+        },
+        {
+          "player": "AiFuXi",
+          "score": 7988
+        },
+        {
+          "player": "NeitfinMiDI",
+          "score": 7775
+        },
+        {
+          "player": "LingAgo",
+          "score": 4448
+        },
+        {
+          "player": "Shirobana",
+          "score": 4418
+        },
+        {
+          "player": "www",
+          "score": 3774
+        },
+        {
+          "player": "Rikka_Rin",
+          "score": 3410
+        },
+        {
+          "player": "Apponir",
+          "score": 144
+        },
+        {
+          "player": "Blackcat_Mary",
+          "score": 129
+        },
+        {
+          "player": "Temp",
+          "score": 5
+        },
+        {
+          "player": "etern_",
+          "score": 5
+        },
+        {
+          "player": "dlklnc_zhao",
+          "score": 1
+        }
+      ],
+      "statistics": {
+        "total_players": 20,
+        "total_score": 338604,
+        "average_score": 16930.2,
+        "top_player": "ZHAOMH233",
+        "top_score": 157831
+      },
+      "objective_info": {
+        "Name": "MiningList",
+        "display_auto_update": 1,
+        "DisplayName": "挖掘列表Wan"
+      }
+    },
+    "KillEntityList": {
+      "display_slot": null,
+      "player_count": 19,
+      "player_scores": [
+        {
+          "player": "ZHAOMH233",
+          "score": 569210
+        },
+        {
+          "player": "violawan",
+          "score": 10317
+        },
+        {
+          "player": "1",
+          "score": 5689
+        },
+        {
+          "player": "shekongQWQ",
+          "score": 2962
+        },
+        {
+          "player": "2",
+          "score": 2790
+        },
+        {
+          "player": "Takanou_Lizy",
+          "score": 2439
+        },
+        {
+          "player": "xizhe987",
+          "score": 2429
+        },
+        {
+          "player": "ling",
+          "score": 2164
+        },
+        {
+          "player": "Wu_Nen233",
+          "score": 1164
+        },
+        {
+          "player": "hexa763",
+          "score": 1079
+        },
+        {
+          "player": "3",
+          "score": 645
+        },
+        {
+          "player": "AiFuXi",
+          "score": 447
+        },
+        {
+          "player": "Shirobana",
+          "score": 371
+        },
+        {
+          "player": "dlklnc_sj_zhao",
+          "score": 343
+        },
+        {
+          "player": "beluga14514",
+          "score": 324
+        },
+        {
+          "player": "redmountain_qaq",
+          "score": 200
+        },
+        {
+          "player": "NeitfinMiDI",
+          "score": 166
+        },
+        {
+          "player": "etern_",
+          "score": 2
+        },
+        {
+          "player": "Rikka_Rin",
+          "score": 1
+        }
+      ],
+      "statistics": {
+        "total_players": 19,
+        "total_score": 602742,
+        "average_score": 31723.26,
+        "top_player": "ZHAOMH233",
+        "top_score": 569210
+      },
+      "objective_info": {
+        "Name": "KillEntityList",
+        "display_auto_update": 1,
+        "DisplayName": "击杀实体列表Wan"
+      }
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 17,
+    "total_players_across_objectives": 75,
     "objectives_found": [
-      "DeathList"
+      "DeathList",
+      "PlacingList",
+      "MiningList",
+      "KillEntityList"
     ]
   }
 }
