@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-03-27 20:23:47",
+  "export_time": "2026-03-27 21:23:50",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -22,7 +22,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 13
+          "score": 14
         },
         {
           "player": "ZHAOMH233",
@@ -79,8 +79,8 @@
       ],
       "statistics": {
         "total_players": 17,
-        "total_score": 159,
-        "average_score": 9.35,
+        "total_score": 160,
+        "average_score": 9.41,
         "top_player": "shekongQWQ",
         "top_score": 73
       },
@@ -91,12 +91,12 @@
       }
     },
     "PlacingList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 19,
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 44881
+          "score": 44889
         },
         {
           "player": "redmountain_qaq",
@@ -124,7 +124,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 6382
+          "score": 6399
         },
         {
           "player": "AiFuXi",
@@ -173,10 +173,10 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 148265,
-        "average_score": 7803.42,
+        "total_score": 148290,
+        "average_score": 7804.74,
         "top_player": "ZHAOMH233",
-        "top_score": 44881
+        "top_score": 44889
       },
       "objective_info": {
         "Name": "PlacingList",
@@ -190,7 +190,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 157831
+          "score": 157838
         },
         {
           "player": "redmountain_qaq",
@@ -214,7 +214,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 12064
+          "score": 12321
         },
         {
           "player": "Wu_Nen233",
@@ -271,10 +271,10 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 338604,
-        "average_score": 16930.2,
+        "total_score": 338868,
+        "average_score": 16943.4,
         "top_player": "ZHAOMH233",
-        "top_score": 157831
+        "top_score": 157838
       },
       "objective_info": {
         "Name": "MiningList",
@@ -283,7 +283,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 19,
       "player_scores": [
         {
@@ -308,7 +308,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 2439
+          "score": 2440
         },
         {
           "player": "xizhe987",
@@ -365,8 +365,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 602742,
-        "average_score": 31723.26,
+        "total_score": 602743,
+        "average_score": 31723.32,
         "top_player": "ZHAOMH233",
         "top_score": 569210
       },
