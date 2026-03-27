@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-03-28 00:23:57",
+  "export_time": "2026-03-28 01:24:00",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 17,
       "player_scores": [
         {
@@ -124,7 +124,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 6851
+          "score": 6881
         },
         {
           "player": "AiFuXi",
@@ -173,8 +173,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 148742,
-        "average_score": 7828.53,
+        "total_score": 148772,
+        "average_score": 7830.11,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -185,7 +185,7 @@
       }
     },
     "MiningList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 20,
       "player_scores": [
         {
@@ -214,7 +214,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 13100
+          "score": 13150
         },
         {
           "player": "Wu_Nen233",
@@ -271,8 +271,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 339647,
-        "average_score": 16982.35,
+        "total_score": 339697,
+        "average_score": 16984.85,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
