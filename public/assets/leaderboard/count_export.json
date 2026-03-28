@@ -1,12 +1,12 @@
 {
-  "export_time": "2026-03-28 11:24:23",
+  "export_time": "2026-03-28 13:26:40",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
       "display_slot": null,
-      "player_count": 17,
+      "player_count": 18,
       "player_scores": [
         {
           "player": "shekongQWQ",
@@ -39,6 +39,10 @@
         {
           "player": "2",
           "score": 3
+        },
+        {
+          "player": "Vencywaltz",
+          "score": 2
         },
         {
           "player": "Blackcat_Mary",
@@ -78,9 +82,9 @@
         }
       ],
       "statistics": {
-        "total_players": 17,
-        "total_score": 168,
-        "average_score": 9.88,
+        "total_players": 18,
+        "total_score": 170,
+        "average_score": 9.44,
         "top_player": "shekongQWQ",
         "top_score": 73
       },
@@ -91,7 +95,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 19,
       "player_scores": [
         {
@@ -124,7 +128,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 6881
+          "score": 6889
         },
         {
           "player": "AiFuXi",
@@ -173,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 148772,
-        "average_score": 7830.11,
+        "total_score": 148780,
+        "average_score": 7830.53,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -210,11 +214,11 @@
         },
         {
           "player": "beluga14514",
-          "score": 13335
+          "score": 13364
         },
         {
           "player": "Takanou_Lizy",
-          "score": 13150
+          "score": 13156
         },
         {
           "player": "Wu_Nen233",
@@ -271,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 339698,
-        "average_score": 16984.9,
+        "total_score": 339733,
+        "average_score": 16986.65,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
@@ -283,7 +287,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 19,
       "player_scores": [
         {
@@ -378,7 +382,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 75,
+    "total_players_across_objectives": 76,
     "objectives_found": [
       "DeathList",
       "PlacingList",
