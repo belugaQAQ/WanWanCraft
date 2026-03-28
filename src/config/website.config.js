@@ -349,7 +349,7 @@ export const websiteConfig = {
           icon: "qqchat",
           buttonText: "加入 QQ 群",
           buttonType: "secondary",
-          url: "https://qm.qq.com/q/mVvrLcbLvU"
+          url: "https://qm.qq.com/q/5E5C3088PS"
         },
         {
           title: "邮箱",
