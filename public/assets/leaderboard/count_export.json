@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-03-28 18:26:52",
+  "export_time": "2026-03-28 19:26:55",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -128,7 +128,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 7015
+          "score": 7184
         },
         {
           "player": "AiFuXi",
@@ -177,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 148906,
-        "average_score": 7837.16,
+        "total_score": 149075,
+        "average_score": 7846.05,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -189,7 +189,7 @@
       }
     },
     "MiningList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 20,
       "player_scores": [
         {
@@ -214,7 +214,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 13411
+          "score": 13653
         },
         {
           "player": "beluga14514",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 339988,
-        "average_score": 16999.4,
+        "total_score": 340230,
+        "average_score": 17011.5,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
@@ -287,7 +287,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 19,
       "player_scores": [
         {
@@ -312,7 +312,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 2451
+          "score": 2456
         },
         {
           "player": "xizhe987",
@@ -369,8 +369,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 602754,
-        "average_score": 31723.89,
+        "total_score": 602759,
+        "average_score": 31724.16,
         "top_player": "ZHAOMH233",
         "top_score": 569210
       },
