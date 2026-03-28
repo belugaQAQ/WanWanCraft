@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { websiteConfig } from '../config/website.config.js';
 import PageTitle from '../components/PageTitle.astro';
 import { fetchMembersData, formatMembersList, getPlayerAvatarUrl } from '../utils/members.js';
-
+import FluentIcon from '../components/FluentIcon.astro';
 // 获取成员列表数据
 const membersList = await fetchMembersData();
 const formattedMembers = formatMembersList(membersList);
@@ -27,12 +27,12 @@ const description = "了解服务器的详细信息和管理团队";
                         
                         // 获取图标类名，优先使用图标映射，如果没有映射则使用原始值
                         const iconClass = websiteConfig.icons?.mappings?.[section.icon] 
-                            ? `mdi ${websiteConfig.icons.mappings[section.icon]}`
-                            : `mdi ${section.icon}`;
+                            ? `${websiteConfig.icons.mappings[section.icon]}`
+                            : `${section.icon}`;
                         
                         return (
                             <div class="info-card card">
-                                <i class={iconClass}></i>
+                                <FluentIcon name={iconClass} size="40" />
                                 <h3>{section.title}</h3>
                                 <ul class="info-list">
                                     {section.items.map(item => (
@@ -56,43 +56,17 @@ const description = "了解服务器的详细信息和管理团队";
                         {websiteConfig.about.rules.items.map((rule, index) => {
                             // 获取图标类名，优先使用图标映射，如果没有映射则使用原始值
                             const iconClass = websiteConfig.icons?.mappings?.[rule.icon] 
-                                ? `mdi ${websiteConfig.icons.mappings[rule.icon]}`
-                                : `mdi ${rule.icon}`;
+                                ? `${websiteConfig.icons.mappings[rule.icon]}`
+                                : `${rule.icon}`;
                             
                             return (
                                 <div class="rule-card card" key={index}>
-                                    <i class={iconClass}></i>
+                                    <FluentIcon name={iconClass} size="40" />
                                     <h4>{rule.title}</h4>
                                     <p>{rule.description}</p>
                                 </div>
                             );
                         })}
-                    </div>
-                </section>
-            )}
-
-            <!-- 成员列表 -->
-            {websiteConfig.about?.members?.enabled && formattedMembers.length > 0 && (
-                <section class="members-section">
-                    <h2 class="section-title">{websiteConfig.about.members.title}</h2>
-                    <p class="section-description">{websiteConfig.about.members.description}</p>
-                    <div class="members-grid">
-                        {formattedMembers.map((member, index) => (
-                            <div class="member-card card" key={index}>
-                                <div class="member-avatar">
-                                    <img 
-                                        src={member.avatar} 
-                                        alt={member.name}
-                                        loading="lazy"
-                                        onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
-                                    />
-                                    <i class="mdi mdi-account fallback-icon" style="display: none;"></i>
-                                </div>
-                                <div class="member-info">
-                                    <h4>{member.name}</h4>
-                                </div>
-                            </div>
-                        ))}
                     </div>
                 </section>
             )}

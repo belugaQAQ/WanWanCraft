@@ -33,7 +33,7 @@ export const websiteConfig = {
             }
           },
           // 副标题配置
-          subtitle: "探索无限可能的方块世界，与朋友一起创造属于你们的冒险故事"
+          subtitle: "一个功能丰富的Cerber粉丝群组旗下Minecraft生电服务器"
         }
       },
       {
@@ -46,7 +46,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["游戏相册", "DCS Game Gallery"],
+            texts: ["游戏相册", "Wan Gallery"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -67,7 +67,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["WanWanCraft服历程", "DCS History"],
+            texts: ["WanWanCraft服历程", "Wan History"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -88,7 +88,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["MinaWan排行榜", "DCS Leaderboard"],
+            texts: ["MinaWan排行榜", "Wan Leaderboard"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -97,6 +97,30 @@ export const websiteConfig = {
             }
           },
           subtitle: "看看谁是最活跃的玩家，展示你的成就"
+        }
+      },
+      {
+        name: "文档",
+        path: "/docs",
+        icon: "book-32-filled",
+        enabled: true,
+        // 外链配置：如果external为true，则点击跳转到externalUrl
+        external: false, // 是否启用外链模式
+        externalUrl: "", // 外链地址（仅在external为true时生效） //请填写完整的URL，例如：https://mc.wanfory.top,必须带协议头
+        // 页面标题配置
+        pageTitle: {
+          // 主标题配置（支持打字机效果）
+          mainTitle: {
+            texts: ["WanWanCraft 文档", "Wan Doc"], // 多语言标题数组
+            typewriter: {
+              enabled: true, // 是否启用打字机效果
+              speed: 100,    // 打字速度（毫秒）
+              delay: 1000,   // 切换延迟（毫秒）
+              loop: true     // 是否循环播放
+            }
+          },
+          // 副标题配置
+          subtitle: "阅览服务器的详细文档，了解更多信息"
         }
       },
       {
@@ -120,29 +144,14 @@ export const websiteConfig = {
           subtitle: "了解我们的服务器信息、管理团队和游戏规则"
         }
       },
-        {
-        name: "文档",
-        path: "/docs",
-        icon: "book-32-filled",
+      {
+        name: "地图",
+        path: "/3d-map",
+        icon: "map-16-filled",
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
-        external: false, // 是否启用外链模式
-        externalUrl: "", // 外链地址（仅在external为true时生效） //请填写完整的URL，例如：https://mc.wanfory.top,必须带协议头
-        // 页面标题配置
-        pageTitle: {
-          // 主标题配置（支持打字机效果）
-          mainTitle: {
-            texts: ["欢迎来到 WanWanCraft", "Welcome to WanWanCraft"], // 多语言标题数组
-            typewriter: {
-              enabled: true, // 是否启用打字机效果
-              speed: 100,    // 打字速度（毫秒）
-              delay: 1000,   // 切换延迟（毫秒）
-              loop: true     // 是否循环播放
-            }
-          },
-          // 副标题配置
-          subtitle: "探索无限可能的方块世界，与朋友一起创造属于你们的冒险故事"
-        }
+        external: true, // 是否启用外链模式
+        externalUrl: "http://mc.classisband.xyz:42764/", 
       },
     ],
     // 添加新页面时，只需在这里添加新的导航项即可
@@ -166,7 +175,7 @@ export const websiteConfig = {
 
   // 音乐播放器配置
   musicPlayer: {
-    enabled: true,
+    enabled: false,
     metingApi: "https://api.injahow.cn/meting/",
     server: "netease", // netease, kugou
     type: "playlist",   // playlist, song
@@ -188,10 +197,8 @@ export const websiteConfig = {
 
   // 页脚配置
   footer: {
-    copyright: "© 2022-2026 晚晚服保留所有权利.",
+    copyright: "© 2026 WanWanCraft保留所有权利.",
     customHtml: `
-      <!-- 在这里插入自定义HTML代码，比如备案信息 -->
-      <div style='display: flex; justify-content: center; align-items: center; width: 100%;'><a target='_blank' href='https://beian.miit.gov.cn/'><img src='/foot/foot-icp.svg' style='display: block;'></a></div>
     `
   },
 
@@ -268,10 +275,10 @@ export const websiteConfig = {
       serverInfo: {
         enabled: true,
         title: "服务器信息",
-        icon: "information",
+        icon: "info-sparkle-48-filled",
         items: [
           { label: "服务器类别", value: "云主机" },
-          { label: "CPU", value: "i9-13900kf" },
+          { label: "CPU", value: "铂金8368(ES6)" },
           { label: "内存", value: "16GB DDR5" },  
           { label: "类型", value: "生存，生电，互通" },
           { label: "最大玩家", value: "40人" },
@@ -283,14 +290,14 @@ export const websiteConfig = {
       features: {
         enabled: true,
         title: "服务器特色",
-        icon: "cog",
+        icon: "server-link-20-filled",
         items: [
           { label: "IPV4网络", value: "✓" },
           { label: "IPV6网络", value: "✓" },
-          { label: "镜像服务器", value: "✓" },
-          { label: "双重备份", value: "✓" },
-          { label: "群服互通", value: "✓" },
-          { label: "联机工具提供", value: "✓" }
+          { label: "Ledger", value: "✓" },
+          { label: "详细文档", value: "✓" },
+          { label: "功能多样", value: "✓" },
+          { label: "我喜欢你", value: "✓" }
         ]
       },
       
@@ -298,11 +305,10 @@ export const websiteConfig = {
       team: {
         enabled: true,
         title: "管理团队",
-        icon: "shield-account",
+        icon: "person-key-16-filled",
         items: [
-          { label: "_YUTONG_", value: "腐竹-物理服主！" },
-          { label: "wanwan_jiean", value: "腐竹-技术和主要管理" },
-          { label: "CrazyPastor", value: "腐竹-不务正业" }
+          { label: "ClassIsBand(beluga14514)", value: "腐竹-技术和主要管理" },
+          { label: "雷惜寒_Leshian ", value: "管理-不务正业" }
         ]
       }
     },
@@ -315,17 +321,17 @@ export const websiteConfig = {
       items: [
         {
           title: "友好相处",
-          icon: "heart",
+          icon: "hand-open-heart-32-filled",
           description: "尊重其他玩家，禁止任何形式的骚扰和歧视行为"
         },
         {
           title: "禁止作弊",
-          icon: "shield",
+          icon: "shield-28-filled",
           description: "严禁使用任何作弊客户端或利用游戏漏洞"
         },
         {
           title: "文明聊天",
-          icon: "chat",
+          icon: "chat-multiple-32-filled",
           description: "保持聊天频道文明，禁止发布广告和不当内容"
         }
       ]
@@ -339,7 +345,7 @@ export const websiteConfig = {
       items: [
         {
           title: "QQ群",
-          subtitle: "加入官方 QQ 群交流",
+          subtitle: "加入Cerber粉丝群交流",
           icon: "qqchat",
           buttonText: "加入 QQ 群",
           buttonType: "secondary",
@@ -347,11 +353,11 @@ export const websiteConfig = {
         },
         {
           title: "邮箱",
-          subtitle: "发送邮件联系我们",
+          subtitle: "发送邮件联系腐竹",
           icon: "email",
           buttonText: "发送邮件",
           buttonType: "secondary",
-          url: "mailto:me@wanfory.top"
+          url: "mailto:2441500679@qq.com"
         }
       ]
     },

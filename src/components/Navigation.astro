@@ -41,7 +41,7 @@ import FluentIcon from '../components/FluentIcon.astro';
                             >
                                 <FluentIcon name={item.icon} size="24" />
                                 <span>{item.name}</span>
-                                {isExternal && <i class="mdi mdi-open-in-new external-icon"></i>}
+                                {isExternal && <FluentIcon name="arrow-up-right-dashes-12-regular" size="16" />}
                             </a>
                         </li>
                     );
@@ -107,7 +107,7 @@ document.addEventListener('astro:page-load', updateNavHighlight);
     box-shadow: var(--shadow-xl);
     transition: all 0.3s var(--ease-smooth);
     width: calc(100% - 4rem);
-    max-width: 1200px;
+    max-width: 1400px;
 }
 
 .navbar.hidden {
