@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-03-28 22:30:45",
+  "export_time": "2026-03-28 23:30:48",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 18,
       "player_scores": [
         {
@@ -128,7 +128,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 7184
+          "score": 7215
         },
         {
           "player": "AiFuXi",
@@ -177,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 149075,
-        "average_score": 7846.05,
+        "total_score": 149106,
+        "average_score": 7847.68,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -214,7 +214,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 13653
+          "score": 13692
         },
         {
           "player": "beluga14514",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 340230,
-        "average_score": 17011.5,
+        "total_score": 340269,
+        "average_score": 17013.45,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
@@ -287,7 +287,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 19,
       "player_scores": [
         {
