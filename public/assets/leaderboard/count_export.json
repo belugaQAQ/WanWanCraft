@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-03-29 00:30:50",
+  "export_time": "2026-03-29 01:30:53",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -18,7 +18,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 22
+          "score": 24
         },
         {
           "player": "violawan",
@@ -83,8 +83,8 @@
       ],
       "statistics": {
         "total_players": 18,
-        "total_score": 170,
-        "average_score": 9.44,
+        "total_score": 172,
+        "average_score": 9.56,
         "top_player": "shekongQWQ",
         "top_score": 73
       },
@@ -128,7 +128,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 7215
+          "score": 7344
         },
         {
           "player": "AiFuXi",
@@ -177,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 149106,
-        "average_score": 7847.68,
+        "total_score": 149235,
+        "average_score": 7854.47,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -189,7 +189,7 @@
       }
     },
     "MiningList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 20,
       "player_scores": [
         {
@@ -214,7 +214,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 13692
+          "score": 13893
         },
         {
           "player": "beluga14514",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 340269,
-        "average_score": 17013.45,
+        "total_score": 340470,
+        "average_score": 17023.5,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
@@ -287,7 +287,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 19,
       "player_scores": [
         {
@@ -312,7 +312,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 2456
+          "score": 2462
         },
         {
           "player": "xizhe987",
@@ -369,8 +369,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 602759,
-        "average_score": 31724.16,
+        "total_score": 602765,
+        "average_score": 31724.47,
         "top_player": "ZHAOMH233",
         "top_score": 569210
       },
