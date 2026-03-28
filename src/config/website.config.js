@@ -24,7 +24,7 @@ export const websiteConfig = {
         pageTitle: {
           // 主标题配置（支持打字机效果）
           mainTitle: {
-            texts: ["欢迎来到 WanWanCraft", "Welcome to WanWanCraft"], // 多语言标题数组
+            texts: ["欢迎来到 WanWanCraft！", "Welcome to WanWanCraft！"], // 多语言标题数组
             typewriter: {
               enabled: true, // 是否启用打字机效果
               speed: 100,    // 打字速度（毫秒）
