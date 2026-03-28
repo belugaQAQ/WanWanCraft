@@ -1,5 +1,7 @@
 ---
 import { websiteConfig } from '../config/website.config.js';
+import { Icon } from 'astro-icon/components';
+import FluentIcon from '../components/FluentIcon.astro';
 ---
 
 <nav id="navbar" class="navbar">
@@ -8,7 +10,7 @@ import { websiteConfig } from '../config/website.config.js';
         <div class="navbar-brand">
             <a href="/" class="logo-link">
                 <span class="logo-icon">
-                    <i class="mdi mdi-cube"></i>
+                    <FluentIcon name="cube-16-filled" size="24" />
                 </span>
                 <span class="logo-text">
                     {websiteConfig.site.title}
@@ -37,7 +39,7 @@ import { websiteConfig } from '../config/website.config.js';
                                 rel={rel}
                                 class={`nav-link ${isActive ? 'active' : ''} ${isExternal ? 'external-link' : ''}`}
                             >
-                                <i class={`mdi ${item.icon}`}></i>
+                                <FluentIcon name={item.icon} size="24" />
                                 <span>{item.name}</span>
                                 {isExternal && <i class="mdi mdi-open-in-new external-icon"></i>}
                             </a>

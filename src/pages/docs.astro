@@ -1,0 +1,119 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { websiteConfig } from '../config/website.config.js';
+import PageTitle from '../components/PageTitle.astro';
+
+const title = "文档";
+const description = "服务器文档和帮助信息";
+
+// 获取文档页面的配置
+const docsConfig = websiteConfig.navigation.items.find(item => item.path === "/docs");
+---
+
+<Layout {title} {description}>
+    <div class="page-container">
+        <!-- 页面头部 -->
+        <PageTitle pageTitle={docsConfig?.pageTitle} />
+
+        <!-- 文档内容 -->
+        <main class="page-content">
+            <!-- 这里您可以添加自定义的文档内容 -->
+            <section class="docs-section">
+                <div class="card">
+                    <div class="iframe-wrapper">
+                        <iframe 
+                            class="inline-page" 
+                            src="https://mcpage.classisband.xyz"
+                            frameborder="0"
+                            allow="fullscreen"
+                            loading="lazy"
+                            title="内嵌文档页面"
+                        ></iframe>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+</Layout>
+
+<style>
+.docs-section {
+    background: var(--glass-bg);
+    backdrop-filter: var(--glass-backdrop);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-xl);
+    margin: 4rem 2rem 2rem;
+    padding: 1rem 1.5rem;
+    align-items: center;
+}
+
+.page-container {
+    max-width: 100%;
+    max-height: auto;
+    align-items: center;
+}
+
+/* 内嵌页面容器 */
+.iframe-wrapper {
+    position: relative;
+    width: 100%;
+    overflow: hidden; /* 隐藏滚动条 */
+    background: #f5f5f5;
+}
+
+.inline-page {
+    width: 100%;
+    height: 800px;
+    border: none;
+    display: block;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    .docs-section {
+        margin: 4rem 1rem 1rem;
+        border-radius: var(--radius-lg);
+        padding: 0.75rem;
+    }
+    
+    .iframe-wrapper {
+        overflow: hidden; /* 确保滚动条隐藏 */
+        height: auto;
+    }
+    
+    .inline-page {
+        width: 111.12%; /* 1/0.9 = 111.12%，完美补偿90%缩放 */
+        height: 888.89px; /* 800/0.9 = 888.89px，补偿缩放后的高度 */
+        transform: scale(0.9);
+        transform-origin: top left;
+        margin-bottom: -88.89px; /* 负边距消除底部白边 */
+    }
+}
+
+/* 针对小屏幕手机的进一步优化 */
+@media (max-width: 480px) {
+    .docs-section {
+        margin: 3rem 0.75rem 1rem;
+        padding: 0.5rem;
+    }
+    
+    .inline-page {
+        width: 117.65%; /* 1/0.85 = 117.65% */
+        height: 941.18px; /* 800/0.85 = 941.18px */
+        transform: scale(0.85);
+        transform-origin: top left;
+        margin-bottom: -141.18px; /* 负边距消除底部白边 */
+    }
+}
+
+/* 完全隐藏所有滚动条 */
+.iframe-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.iframe-wrapper {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+</style>

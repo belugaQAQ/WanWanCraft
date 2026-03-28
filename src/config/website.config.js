@@ -15,7 +15,7 @@ export const websiteConfig = {
       {
         name: "主页",
         path: "/",
-        icon: "mdi-home",
+        icon: "home-24-filled",
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: false, // 是否启用外链模式
@@ -39,7 +39,7 @@ export const websiteConfig = {
       {
         name: "相册",
         path: "/gallery",
-        icon: "mdi-image",
+        icon: "image-library-28-filled",
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: false, // 是否启用外链模式
@@ -60,7 +60,7 @@ export const websiteConfig = {
       {
         name: "历程",
         path: "/history",
-        icon: "mdi-history",
+        icon: "history-16-filled",
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: false, // 是否启用外链模式
@@ -81,14 +81,14 @@ export const websiteConfig = {
       {
         name: "排行榜",
         path: "/leaderboard",
-        icon: "mdi-trophy",
+        icon: "data-usage-16-filled",
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: false, // 是否启用外链模式
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["MinaWan排行榜", "MinaWan Leaderboard"],
+            texts: ["MinaWan排行榜", "DCS Leaderboard"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -102,7 +102,7 @@ export const websiteConfig = {
       {
         name: "关于",
         path: "/about",
-        icon: "mdi-information",
+        icon: "info-16-filled",
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: false, // 是否启用外链模式
@@ -119,7 +119,31 @@ export const websiteConfig = {
           },
           subtitle: "了解我们的服务器信息、管理团队和游戏规则"
         }
-      }
+      },
+        {
+        name: "文档",
+        path: "/docs",
+        icon: "book-32-filled",
+        enabled: true,
+        // 外链配置：如果external为true，则点击跳转到externalUrl
+        external: false, // 是否启用外链模式
+        externalUrl: "", // 外链地址（仅在external为true时生效） //请填写完整的URL，例如：https://mc.wanfory.top,必须带协议头
+        // 页面标题配置
+        pageTitle: {
+          // 主标题配置（支持打字机效果）
+          mainTitle: {
+            texts: ["欢迎来到 WanWanCraft", "Welcome to WanWanCraft"], // 多语言标题数组
+            typewriter: {
+              enabled: true, // 是否启用打字机效果
+              speed: 100,    // 打字速度（毫秒）
+              delay: 1000,   // 切换延迟（毫秒）
+              loop: true     // 是否循环播放
+            }
+          },
+          // 副标题配置
+          subtitle: "探索无限可能的方块世界，与朋友一起创造属于你们的冒险故事"
+        }
+      },
     ],
     // 添加新页面时，只需在这里添加新的导航项即可
     autoHide: true,
@@ -130,13 +154,12 @@ export const websiteConfig = {
   // 背景图片配置
   background: {
     images: [
-      "/backgrounds/desktopWallpaper_1.webp",
-      "/backgrounds/desktopWallpaper_2.webp",
-      "/backgrounds/desktopWallpaper_3.webp",
-      "/backgrounds/desktopWallpaper_4.webp",
-      "/backgrounds/desktopWallpaper_5.webp",
-      "/backgrounds/desktopWallpaper_6.webp",
-      "/backgrounds/desktopWallpaper_7.webp",
+      "/backgrounds/desktopWallpaper_1.png",
+      "/backgrounds/desktopWallpaper_2.jpeg",
+      "/backgrounds/desktopWallpaper_3.jpeg",
+      "/backgrounds/desktopWallpaper_4.jpeg",
+      "/backgrounds/desktopWallpaper_5.png",
+      "/backgrounds/desktopWallpaper_6.jpeg",
     ],
     defaultImage: "/backgrounds/default.webp"
   },
@@ -150,48 +173,6 @@ export const websiteConfig = {
     id: "5186526688",      // 歌单ID
     autoPlay: false,
     volume: 0.8
-  },
-
-  // 字体配置
-  fonts: {
-    // 主字体配置
-    main: {
-      family: "像素体", // 字体名称
-      file: "/fonts/像素体.ttf", // 字体文件路径
-      fallback: "'Quicksand', 'Noto Sans SC', sans-serif", // 备用字体
-      weight: "normal" // 字体粗细
-    },
-    // 标题字体配置
-    title: {
-      family: "像素体", // 字体名称
-      file: "/fonts/像素体.ttf", // 字体文件路径
-      fallback: "'Quicksand', 'Noto Sans SC', sans-serif", // 备用字体
-      weight: "normal" // 字体粗细
-    }
-  },
-
-  // 主题配置
-  theme: {
-    // 日间模式颜色
-    light: {
-      primary: "#ff8eb7",     // 樱花粉
-      secondary: "#a6e3e9",   // 薄荷蓝
-      accent: "#ffd166",      // 奶油黄
-      background: "#f8f5ff",  // 浅紫色背景
-      card: "rgba(255, 255, 255, 0.85)",
-      text: "#5a4b81",       // 深紫色文字
-      glass: "rgba(255, 255, 255, 0.35)"
-    },
-    // 夜间模式颜色
-    dark: {
-      primary: "#ff8eb7",     // 樱花粉
-      secondary: "#a6e3e9",   // 薄荷蓝
-      accent: "#ffd166",      // 奶油黄
-      background: "#1a1a2e",  // 深蓝背景
-      card: "rgba(30, 30, 46, 0.85)",
-      text: "#cdd6f4",       // 浅色文字
-      glass: "rgba(30, 30, 46, 0.35)"
-    }
   },
 
   // 服务器配置
@@ -224,32 +205,8 @@ export const websiteConfig = {
     
     // 计分板显示配置
     objectives: {
-      // 活跃时间
-      "fzsd.module.scoreboard.display.activation": {
-        enabled: true,             //是否显示
-        displayName: "活跃时间",
-        icon: "clock",
-        unit: "小时",
-        showTotal: true
-      },
-      // 飞行距离
-      "fzsd.module.scoreboard.display.aviating_distance": {
-        enabled: true,
-        displayName: "飞行距离",
-        icon: "airplane",
-        unit: "米",
-        showTotal: true
-      },
-      // 受伤害数
-      "fzsd.module.scoreboard.display.damage_taken": {
-        enabled: true,
-        displayName: "受伤害数",
-        icon: "heartbroken",
-        unit: "点",
-        showTotal: true
-      },
       // 死亡次数
-      "fzsd.module.scoreboard.display.death_count": {
+      "DeathList": {
         enabled: true,
         displayName: "死亡次数",
         icon: "skull",
@@ -257,23 +214,15 @@ export const websiteConfig = {
         showTotal: true
       },
       // 挖掘数
-      "fzsd.module.scoreboard.display.dig_count": {
+      "MiningList": {
         enabled: true,
         displayName: "方块挖掘",
         icon: "pickaxe",
         unit: "个",
         showTotal: true
       },
-      // 钓鱼次数
-      "fzsd.module.scoreboard.display.fishing_count": {
-        enabled: true,
-        displayName: "钓鱼次数",
-        icon: "fish",
-        unit: "次",
-        showTotal: true
-      },
       // 击杀数
-      "fzsd.module.scoreboard.display.kill_count": {
+      "KillEntityList": {
         enabled: true,
         displayName: "玩家击杀",
         icon: "sword",
@@ -281,19 +230,11 @@ export const websiteConfig = {
         showTotal: true
       },
       // 放置数
-      "fzsd.module.scoreboard.display.placement_count": {
+      "PlacingList": {
         enabled: true,
         displayName: "放置数量",
         icon: "placement",
         unit: "个",
-        showTotal: true
-      },
-      // 交易次数
-      "fzsd.module.scoreboard.display.trade_count": {
-        enabled: true,
-        displayName: "交易次数",
-        icon: "trade",
-        unit: "次",
         showTotal: true
       }
     },
@@ -446,7 +387,7 @@ export const websiteConfig = {
     source: "https://icones.js.org",
     // 常用图标映射
     mappings: {
-      home: "mdi-home",
+      home: "mdi-history",
       history: "mdi-history", 
       trophy: "mdi-trophy",
       information: "mdi-information",
@@ -541,3 +482,4 @@ export function addNewPage(pageConfig) {
     layout: pageConfig.layout || "default"
   };
 }
+

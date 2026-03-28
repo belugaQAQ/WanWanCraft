@@ -1,0 +1,15 @@
+---
+// src/components/FluentIcon.astro
+import { Icon } from 'astro-icon/components';
+
+export interface Props {
+  name: string;  // 不需要 fluent: 前缀
+  size?: string | number;
+  class?: string;
+}
+
+const { name, size = '24', class: className, ...rest } = Astro.props;
+const fullName = `fluent:${name}`;
+---
+
+<Icon name={fullName} size={size} class={className} {...rest} />

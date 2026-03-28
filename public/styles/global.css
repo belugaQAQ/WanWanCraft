@@ -2,8 +2,16 @@
 
 /* 自定义字体定义 */
 @font-face {
-  font-family: '像素体';
+  font-family: 'Mojang ABC';
   src: url('/fonts/像素体.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: '123';
+  src: url('/fonts/KNMaiyuan-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -11,12 +19,12 @@
 
 :root {
   /* 日间模式颜色 - 奶油白风格 */
-  --color-primary: #ff8eb7;     /* 樱花粉 */
-  --color-secondary: #a6e3e9;   /* 薄荷蓝 */
-  --color-accent: #ffd166;      /* 奶油黄 */
-  --color-success: #7befb2;     /* 清新绿 */
-  --color-warning: #ff9a76;     /* 珊瑚橙 */
-  --color-info: #79c7ff;        /* 天空蓝 */
+  --color-primary: #F5DAA4;     
+  --color-secondary: #b8a6e9;   
+  --color-accent: #ff8eb7;      
+  --color-success: #a6e3e9;     
+  --color-warning: #ff9a76;     
+  --color-info: #79c7ff;        
 
   /* 背景与文字 */
   --color-bg: #fef7f0;          /* 奶油白背景 */
@@ -51,8 +59,8 @@
   --shadow-xl: 0 24px 64px rgba(168, 153, 255, 0.25);
 
   /* 字体系统 - 通过配置文件动态设置 */
-  --font-main: '像素体', 'Quicksand', 'Noto Sans SC', sans-serif;
-  --font-title: '像素体', 'Quicksand', 'Noto Sans SC', sans-serif;
+  --font-main: 'Mojang ABC', '123', 'Quicksand', 'Noto Sans SC', sans-serif !important;
+  --font-title: 'Mojang ABC', '123', 'Quicksand', 'Noto Sans SC', sans-serif !important;
 }
 
 /* 夜间模式 */
@@ -87,6 +95,12 @@ body {
   background-color: var(--color-bg);
   transition: background-color 0.3s var(--ease-smooth), color 0.3s var(--ease-smooth);
   overflow-x: hidden;
+}
+
+iconify-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
 }
 
 /* 背景图片系统 */
