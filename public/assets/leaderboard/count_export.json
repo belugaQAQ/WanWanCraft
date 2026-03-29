@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-03-29 09:31:11",
+  "export_time": "2026-03-29 10:31:13",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "shekongQWQ",
-          "score": 73
+          "score": 77
         },
         {
           "player": "beluga14514",
@@ -83,10 +83,10 @@
       ],
       "statistics": {
         "total_players": 18,
-        "total_score": 172,
-        "average_score": 9.56,
+        "total_score": 176,
+        "average_score": 9.78,
         "top_player": "shekongQWQ",
-        "top_score": 73
+        "top_score": 77
       },
       "objective_info": {
         "Name": "DeathList",
@@ -108,7 +108,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 16424
+          "score": 16440
         },
         {
           "player": "beluga14514",
@@ -177,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 149416,
-        "average_score": 7864.0,
+        "total_score": 149432,
+        "average_score": 7864.84,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -189,7 +189,7 @@
       }
     },
     "MiningList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 20,
       "player_scores": [
         {
@@ -201,12 +201,12 @@
           "score": 30598
         },
         {
-          "player": "ling",
-          "score": 27960
+          "player": "shekongQWQ",
+          "score": 28827
         },
         {
-          "player": "shekongQWQ",
-          "score": 25052
+          "player": "ling",
+          "score": 27960
         },
         {
           "player": "violawan",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 340697,
-        "average_score": 17034.85,
+        "total_score": 344472,
+        "average_score": 17223.6,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
@@ -287,7 +287,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 19,
       "player_scores": [
         {
