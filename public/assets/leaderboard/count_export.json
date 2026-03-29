@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-03-29 20:31:38",
+  "export_time": "2026-03-29 21:31:41",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -95,7 +95,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 19,
       "player_scores": [
         {
@@ -108,7 +108,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 16608
+          "score": 16617
         },
         {
           "player": "beluga14514",
@@ -128,7 +128,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 8036
+          "score": 8046
         },
         {
           "player": "AiFuXi",
@@ -177,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 150111,
-        "average_score": 7900.58,
+        "total_score": 150130,
+        "average_score": 7901.58,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -189,7 +189,7 @@
       }
     },
     "MiningList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 20,
       "player_scores": [
         {
@@ -198,7 +198,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 31615
+          "score": 31617
         },
         {
           "player": "redmountain_qaq",
@@ -214,7 +214,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 14912
+          "score": 14915
         },
         {
           "player": "beluga14514",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 348052,
-        "average_score": 17402.6,
+        "total_score": 348057,
+        "average_score": 17402.85,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
