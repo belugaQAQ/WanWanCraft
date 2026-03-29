@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-03-29 11:31:16",
+  "export_time": "2026-03-29 12:31:18",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -10,7 +10,7 @@
       "player_scores": [
         {
           "player": "shekongQWQ",
-          "score": 77
+          "score": 78
         },
         {
           "player": "beluga14514",
@@ -83,10 +83,10 @@
       ],
       "statistics": {
         "total_players": 18,
-        "total_score": 176,
-        "average_score": 9.78,
+        "total_score": 177,
+        "average_score": 9.83,
         "top_player": "shekongQWQ",
-        "top_score": 77
+        "top_score": 78
       },
       "objective_info": {
         "Name": "DeathList",
@@ -108,7 +108,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 16606
+          "score": 16608
         },
         {
           "player": "beluga14514",
@@ -177,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 149598,
-        "average_score": 7873.58,
+        "total_score": 149600,
+        "average_score": 7873.68,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -189,7 +189,7 @@
       }
     },
     "MiningList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 20,
       "player_scores": [
         {
@@ -198,7 +198,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 31576
+          "score": 31615
         },
         {
           "player": "redmountain_qaq",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 347221,
-        "average_score": 17361.05,
+        "total_score": 347260,
+        "average_score": 17363.0,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
@@ -287,7 +287,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 19,
       "player_scores": [
         {
