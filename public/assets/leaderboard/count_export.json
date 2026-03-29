@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-03-29 21:31:41",
+  "export_time": "2026-03-29 22:31:43",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -10,11 +10,11 @@
       "player_scores": [
         {
           "player": "shekongQWQ",
-          "score": 78
+          "score": 80
         },
         {
           "player": "Takanou_Lizy",
-          "score": 31
+          "score": 34
         },
         {
           "player": "beluga14514",
@@ -83,10 +83,10 @@
       ],
       "statistics": {
         "total_players": 18,
-        "total_score": 184,
-        "average_score": 10.22,
+        "total_score": 189,
+        "average_score": 10.5,
         "top_player": "shekongQWQ",
-        "top_score": 78
+        "top_score": 80
       },
       "objective_info": {
         "Name": "DeathList",
@@ -108,7 +108,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 16617
+          "score": 16620
         },
         {
           "player": "beluga14514",
@@ -128,7 +128,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 8046
+          "score": 8063
         },
         {
           "player": "AiFuXi",
@@ -177,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 150130,
-        "average_score": 7901.58,
+        "total_score": 150150,
+        "average_score": 7902.63,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -198,7 +198,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 31617
+          "score": 31621
         },
         {
           "player": "redmountain_qaq",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 348057,
-        "average_score": 17402.85,
+        "total_score": 348061,
+        "average_score": 17403.05,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
@@ -304,7 +304,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 2962
+          "score": 2964
         },
         {
           "player": "2",
@@ -369,8 +369,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 602831,
-        "average_score": 31727.95,
+        "total_score": 602833,
+        "average_score": 31728.05,
         "top_player": "ZHAOMH233",
         "top_score": 569210
       },
