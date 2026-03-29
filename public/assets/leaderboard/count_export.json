@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-03-29 10:31:13",
+  "export_time": "2026-03-29 11:31:16",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -108,7 +108,7 @@
         },
         {
           "player": "shekongQWQ",
-          "score": 16440
+          "score": 16606
         },
         {
           "player": "beluga14514",
@@ -177,8 +177,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 149432,
-        "average_score": 7864.84,
+        "total_score": 149598,
+        "average_score": 7873.58,
         "top_player": "ZHAOMH233",
         "top_score": 44889
       },
@@ -197,12 +197,12 @@
           "score": 157838
         },
         {
-          "player": "redmountain_qaq",
-          "score": 30598
+          "player": "shekongQWQ",
+          "score": 31576
         },
         {
-          "player": "shekongQWQ",
-          "score": 28827
+          "player": "redmountain_qaq",
+          "score": 30598
         },
         {
           "player": "ling",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 344472,
-        "average_score": 17223.6,
+        "total_score": 347221,
+        "average_score": 17361.05,
         "top_player": "ZHAOMH233",
         "top_score": 157838
       },
