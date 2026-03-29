@@ -179,7 +179,7 @@ export const websiteConfig = {
     metingApi: "https://api.injahow.cn/meting/",
     server: "netease", // netease, kugou
     type: "playlist",   // playlist, song
-    id: "5186526688",      // 歌单ID
+    id: "12963434067",      // 歌单ID
     autoPlay: false,
     volume: 0.8
   },
