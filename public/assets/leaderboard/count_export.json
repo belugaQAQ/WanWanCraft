@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-03-30 22:35:27",
+  "export_time": "2026-03-30 23:35:31",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 18,
       "player_scores": [
         {
@@ -95,7 +95,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 19,
       "player_scores": [
         {
