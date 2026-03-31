@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-03-31 16:38:46",
+  "export_time": "2026-03-31 18:41:04",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 18,
       "player_scores": [
         {
@@ -214,7 +214,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 14963
+          "score": 15021
         },
         {
           "player": "beluga14514",
@@ -275,8 +275,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 348178,
-        "average_score": 17408.9,
+        "total_score": 348236,
+        "average_score": 17411.8,
         "top_player": "ZHAOMH233",
         "top_score": 157907
       },
@@ -287,7 +287,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 19,
       "player_scores": [
         {
