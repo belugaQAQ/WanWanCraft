@@ -1,12 +1,12 @@
 {
-  "export_time": "2026-04-02 00:13:35",
+  "export_time": "2026-04-02 01:13:38",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
       "display_slot": null,
-      "player_count": 18,
+      "player_count": 19,
       "player_scores": [
         {
           "player": "shekongQWQ",
@@ -53,6 +53,10 @@
           "score": 2
         },
         {
+          "player": "AiFuXi",
+          "score": 1
+        },
+        {
           "player": "Wu_Nen233",
           "score": 1
         },
@@ -82,9 +86,9 @@
         }
       ],
       "statistics": {
-        "total_players": 18,
-        "total_score": 192,
-        "average_score": 10.67,
+        "total_players": 19,
+        "total_score": 193,
+        "average_score": 10.16,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -132,7 +136,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 5786
+          "score": 6225
         },
         {
           "player": "NeitfinMiDI",
@@ -177,8 +181,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 150428,
-        "average_score": 7917.26,
+        "total_score": 150867,
+        "average_score": 7940.37,
         "top_player": "ZHAOMH233",
         "top_score": 45117
       },
@@ -189,7 +193,7 @@
       }
     },
     "MiningList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 20,
       "player_scores": [
         {
@@ -230,7 +234,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 7988
+          "score": 8207
         },
         {
           "player": "NeitfinMiDI",
@@ -275,8 +279,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 348242,
-        "average_score": 17412.1,
+        "total_score": 348461,
+        "average_score": 17423.05,
         "top_player": "ZHAOMH233",
         "top_score": 157907
       },
@@ -287,7 +291,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 19,
       "player_scores": [
         {
@@ -382,7 +386,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 76,
+    "total_players_across_objectives": 77,
     "objectives_found": [
       "DeathList",
       "PlacingList",
