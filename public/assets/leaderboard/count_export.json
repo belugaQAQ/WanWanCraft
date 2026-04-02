@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-03 00:14:46",
+  "export_time": "2026-04-03 01:14:48",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -26,7 +26,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 9
+          "score": 10
         },
         {
           "player": "ZHAOMH233",
@@ -87,8 +87,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 201,
-        "average_score": 10.58,
+        "total_score": 202,
+        "average_score": 10.63,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -104,7 +104,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 54035
+          "score": 54079
         },
         {
           "player": "redmountain_qaq",
@@ -136,7 +136,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 7634
+          "score": 7777
         },
         {
           "player": "NeitfinMiDI",
@@ -181,10 +181,10 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 161194,
-        "average_score": 8483.89,
+        "total_score": 161381,
+        "average_score": 8493.74,
         "top_player": "ZHAOMH233",
-        "top_score": 54035
+        "top_score": 54079
       },
       "objective_info": {
         "Name": "PlacingList",
@@ -198,7 +198,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 157936
+          "score": 157989
         },
         {
           "player": "shekongQWQ",
@@ -234,7 +234,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 9075
+          "score": 9240
         },
         {
           "player": "NeitfinMiDI",
@@ -279,10 +279,10 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 349358,
-        "average_score": 17467.9,
+        "total_score": 349576,
+        "average_score": 17478.8,
         "top_player": "ZHAOMH233",
-        "top_score": 157936
+        "top_score": 157989
       },
       "objective_info": {
         "Name": "MiningList",
