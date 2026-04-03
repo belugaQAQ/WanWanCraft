@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-03 12:15:15",
+  "export_time": "2026-04-03 14:15:24",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -128,7 +128,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 9292
+          "score": 9303
         },
         {
           "player": "Wu_Nen233",
@@ -181,8 +181,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 162904,
-        "average_score": 8573.89,
+        "total_score": 162915,
+        "average_score": 8574.47,
         "top_player": "ZHAOMH233",
         "top_score": 54087
       },
@@ -193,7 +193,7 @@
       }
     },
     "MiningList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 20,
       "player_scores": [
         {
@@ -234,7 +234,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 9520
+          "score": 9538
         },
         {
           "player": "NeitfinMiDI",
@@ -279,8 +279,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 349868,
-        "average_score": 17493.4,
+        "total_score": 349886,
+        "average_score": 17494.3,
         "top_player": "ZHAOMH233",
         "top_score": 158001
       },
@@ -291,12 +291,12 @@
       }
     },
     "KillEntityList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 19,
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 713204
+          "score": 713701
         },
         {
           "player": "violawan",
@@ -373,10 +373,10 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 746840,
-        "average_score": 39307.37,
+        "total_score": 747337,
+        "average_score": 39333.53,
         "top_player": "ZHAOMH233",
-        "top_score": 713204
+        "top_score": 713701
       },
       "objective_info": {
         "Name": "KillEntityList",
