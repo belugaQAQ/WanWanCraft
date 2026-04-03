@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-03 08:15:05",
+  "export_time": "2026-04-03 09:15:07",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -26,7 +26,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 11
+          "score": 13
         },
         {
           "player": "ZHAOMH233",
@@ -87,8 +87,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 203,
-        "average_score": 10.68,
+        "total_score": 205,
+        "average_score": 10.79,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -127,16 +127,16 @@
           "score": 9406
         },
         {
+          "player": "AiFuXi",
+          "score": 9292
+        },
+        {
           "player": "Wu_Nen233",
           "score": 8885
         },
         {
           "player": "Takanou_Lizy",
           "score": 8098
-        },
-        {
-          "player": "AiFuXi",
-          "score": 8005
         },
         {
           "player": "NeitfinMiDI",
@@ -181,8 +181,8 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 161617,
-        "average_score": 8506.16,
+        "total_score": 162904,
+        "average_score": 8573.89,
         "top_player": "ZHAOMH233",
         "top_score": 54087
       },
@@ -234,7 +234,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 9393
+          "score": 9520
         },
         {
           "player": "NeitfinMiDI",
@@ -279,8 +279,8 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 349741,
-        "average_score": 17487.05,
+        "total_score": 349868,
+        "average_score": 17493.4,
         "top_player": "ZHAOMH233",
         "top_score": 158001
       },
