@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-04 15:19:14",
+  "export_time": "2026-04-04 16:19:17",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -104,7 +104,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 95022
+          "score": 95430
         },
         {
           "player": "redmountain_qaq",
@@ -181,10 +181,10 @@
       ],
       "statistics": {
         "total_players": 19,
-        "total_score": 203871,
-        "average_score": 10730.05,
+        "total_score": 204279,
+        "average_score": 10751.53,
         "top_player": "ZHAOMH233",
-        "top_score": 95022
+        "top_score": 95430
       },
       "objective_info": {
         "Name": "PlacingList",
@@ -198,7 +198,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 158611
+          "score": 158761
         },
         {
           "player": "shekongQWQ",
@@ -279,10 +279,10 @@
       ],
       "statistics": {
         "total_players": 20,
-        "total_score": 353064,
-        "average_score": 17653.2,
+        "total_score": 353214,
+        "average_score": 17660.7,
         "top_player": "ZHAOMH233",
-        "top_score": 158611
+        "top_score": 158761
       },
       "objective_info": {
         "Name": "MiningList",
