@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-10 02:51:54",
+  "export_time": "2026-04-10 03:51:57",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -168,7 +168,7 @@
         },
         {
           "player": "gold",
-          "score": 1154
+          "score": 1170
         },
         {
           "player": "Leshian",
@@ -201,8 +201,8 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 206223,
-        "average_score": 9820.14,
+        "total_score": 206239,
+        "average_score": 9820.9,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -270,7 +270,7 @@
         },
         {
           "player": "gold",
-          "score": 3877
+          "score": 3907
         },
         {
           "player": "www",
@@ -311,8 +311,8 @@
       ],
       "statistics": {
         "total_players": 23,
-        "total_score": 358255,
-        "average_score": 15576.3,
+        "total_score": 358285,
+        "average_score": 15577.61,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -328,7 +328,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 17915663
+          "score": 18078806
         },
         {
           "player": "violawan",
@@ -413,10 +413,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 17949390,
-        "average_score": 854732.86,
+        "total_score": 18112533,
+        "average_score": 862501.57,
         "top_player": "ZHAOMH233",
-        "top_score": 17915663
+        "top_score": 18078806
       },
       "objective_info": {
         "Name": "KillEntityList",
