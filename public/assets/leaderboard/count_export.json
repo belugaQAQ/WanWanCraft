@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-09 18:51:33",
+  "export_time": "2026-04-09 19:51:35",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -167,12 +167,12 @@
           "score": 944
         },
         {
-          "player": "Apponir",
-          "score": 143
+          "player": "gold",
+          "score": 202
         },
         {
-          "player": "gold",
-          "score": 77
+          "player": "Apponir",
+          "score": 143
         },
         {
           "player": "Blackcat_Mary",
@@ -197,8 +197,8 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 204997,
-        "average_score": 9761.76,
+        "total_score": 205122,
+        "average_score": 9767.71,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -274,7 +274,7 @@
         },
         {
           "player": "gold",
-          "score": 1447
+          "score": 1718
         },
         {
           "player": "Apponir",
@@ -307,8 +307,8 @@
       ],
       "statistics": {
         "total_players": 23,
-        "total_score": 355764,
-        "average_score": 15468.0,
+        "total_score": 356035,
+        "average_score": 15479.78,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -324,7 +324,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 16625383
+          "score": 16787968
         },
         {
           "player": "violawan",
@@ -396,7 +396,7 @@
         },
         {
           "player": "gold",
-          "score": 4
+          "score": 8
         },
         {
           "player": "etern_",
@@ -409,10 +409,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 16659094,
-        "average_score": 793290.19,
+        "total_score": 16821683,
+        "average_score": 801032.52,
         "top_player": "ZHAOMH233",
-        "top_score": 16625383
+        "top_score": 16787968
       },
       "objective_info": {
         "Name": "KillEntityList",
