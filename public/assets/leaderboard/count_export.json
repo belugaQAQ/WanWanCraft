@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-10 00:51:48",
+  "export_time": "2026-04-10 01:51:52",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -34,7 +34,7 @@
         },
         {
           "player": "gold",
-          "score": 8
+          "score": 14
         },
         {
           "player": "ZHAOMH233",
@@ -99,8 +99,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 239,
-        "average_score": 10.86,
+        "total_score": 245,
+        "average_score": 11.14,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -172,7 +172,7 @@
         },
         {
           "player": "gold",
-          "score": 273
+          "score": 440
         },
         {
           "player": "Apponir",
@@ -201,8 +201,8 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 205342,
-        "average_score": 9778.19,
+        "total_score": 205509,
+        "average_score": 9786.14,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -269,12 +269,12 @@
           "score": 4418
         },
         {
-          "player": "www",
-          "score": 3774
+          "player": "gold",
+          "score": 3779
         },
         {
-          "player": "gold",
-          "score": 3484
+          "player": "www",
+          "score": 3774
         },
         {
           "player": "Rikka_Rin",
@@ -311,8 +311,8 @@
       ],
       "statistics": {
         "total_players": 23,
-        "total_score": 357862,
-        "average_score": 15559.22,
+        "total_score": 358157,
+        "average_score": 15572.04,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -328,7 +328,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 17589699
+          "score": 17752687
         },
         {
           "player": "violawan",
@@ -413,10 +413,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 17623426,
-        "average_score": 839210.76,
+        "total_score": 17786414,
+        "average_score": 846972.1,
         "top_player": "ZHAOMH233",
-        "top_score": 17589699
+        "top_score": 17752687
       },
       "objective_info": {
         "Name": "KillEntityList",
