@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-09 15:51:22",
+  "export_time": "2026-04-09 17:51:31",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -104,7 +104,7 @@
     },
     "PlacingList": {
       "display_slot": null,
-      "player_count": 20,
+      "player_count": 21,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -144,7 +144,7 @@
         },
         {
           "player": "NeitfinMiDI",
-          "score": 5036
+          "score": 5037
         },
         {
           "player": "Rikka_Rin",
@@ -165,6 +165,10 @@
         {
           "player": "Apponir",
           "score": 143
+        },
+        {
+          "player": "gold",
+          "score": 46
         },
         {
           "player": "Blackcat_Mary",
@@ -188,9 +192,9 @@
         }
       ],
       "statistics": {
-        "total_players": 20,
-        "total_score": 204919,
-        "average_score": 10245.95,
+        "total_players": 21,
+        "total_score": 204966,
+        "average_score": 9760.29,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -202,7 +206,7 @@
     },
     "MiningList": {
       "display_slot": null,
-      "player_count": 22,
+      "player_count": 23,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -246,7 +250,7 @@
         },
         {
           "player": "NeitfinMiDI",
-          "score": 7806
+          "score": 7807
         },
         {
           "player": "LingAgo",
@@ -263,6 +267,10 @@
         {
           "player": "Rikka_Rin",
           "score": 3410
+        },
+        {
+          "player": "gold",
+          "score": 238
         },
         {
           "player": "Apponir",
@@ -294,9 +302,9 @@
         }
       ],
       "statistics": {
-        "total_players": 22,
-        "total_score": 354316,
-        "average_score": 16105.27,
+        "total_players": 23,
+        "total_score": 354555,
+        "average_score": 15415.43,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -308,11 +316,11 @@
     },
     "KillEntityList": {
       "display_slot": null,
-      "player_count": 20,
+      "player_count": 21,
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 16138314
+          "score": 16462912
         },
         {
           "player": "violawan",
@@ -383,6 +391,10 @@
           "score": 71
         },
         {
+          "player": "gold",
+          "score": 4
+        },
+        {
           "player": "etern_",
           "score": 2
         },
@@ -392,11 +404,11 @@
         }
       ],
       "statistics": {
-        "total_players": 20,
-        "total_score": 16172021,
-        "average_score": 808601.05,
+        "total_players": 21,
+        "total_score": 16496623,
+        "average_score": 785553.48,
         "top_player": "ZHAOMH233",
-        "top_score": 16138314
+        "top_score": 16462912
       },
       "objective_info": {
         "Name": "KillEntityList",
@@ -406,7 +418,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 82,
+    "total_players_across_objectives": 85,
     "objectives_found": [
       "DeathList",
       "PlacingList",
