@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-04-09 20:51:38",
+  "export_time": "2026-04-09 21:51:40",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 21,
       "player_scores": [
         {
@@ -107,7 +107,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 21,
       "player_scores": [
         {
@@ -168,7 +168,7 @@
         },
         {
           "player": "gold",
-          "score": 205
+          "score": 206
         },
         {
           "player": "Apponir",
@@ -197,8 +197,8 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 205131,
-        "average_score": 9768.14,
+        "total_score": 205132,
+        "average_score": 9768.19,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -274,7 +274,7 @@
         },
         {
           "player": "gold",
-          "score": 1726
+          "score": 1747
         },
         {
           "player": "Apponir",
@@ -307,8 +307,8 @@
       ],
       "statistics": {
         "total_players": 23,
-        "total_score": 356099,
-        "average_score": 15482.57,
+        "total_score": 356120,
+        "average_score": 15483.48,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -324,7 +324,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 16951248
+          "score": 17100714
         },
         {
           "player": "violawan",
@@ -396,7 +396,7 @@
         },
         {
           "player": "gold",
-          "score": 19
+          "score": 20
         },
         {
           "player": "etern_",
@@ -409,10 +409,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 16984974,
-        "average_score": 808808.29,
+        "total_score": 17134441,
+        "average_score": 815925.76,
         "top_player": "ZHAOMH233",
-        "top_score": 16951248
+        "top_score": 17100714
       },
       "objective_info": {
         "Name": "KillEntityList",
