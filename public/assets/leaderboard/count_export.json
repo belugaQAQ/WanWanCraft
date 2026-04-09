@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-09 19:51:35",
+  "export_time": "2026-04-09 20:51:38",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -30,7 +30,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 14
+          "score": 16
         },
         {
           "player": "ZHAOMH233",
@@ -47,6 +47,10 @@
         {
           "player": "2",
           "score": 3
+        },
+        {
+          "player": "gold",
+          "score": 2
         },
         {
           "player": "Vencywaltz",
@@ -73,10 +77,6 @@
           "score": 1
         },
         {
-          "player": "gold",
-          "score": 1
-        },
-        {
           "player": "NeitfinMiDI",
           "score": 1
         },
@@ -95,8 +95,8 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 228,
-        "average_score": 10.86,
+        "total_score": 231,
+        "average_score": 11.0,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -136,7 +136,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 9311
+          "score": 9317
         },
         {
           "player": "Wu_Nen233",
@@ -168,7 +168,7 @@
         },
         {
           "player": "gold",
-          "score": 202
+          "score": 205
         },
         {
           "player": "Apponir",
@@ -197,8 +197,8 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 205122,
-        "average_score": 9767.71,
+        "total_score": 205131,
+        "average_score": 9768.14,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -250,7 +250,7 @@
         },
         {
           "player": "AiFuXi",
-          "score": 9602
+          "score": 9658
         },
         {
           "player": "NeitfinMiDI",
@@ -274,7 +274,7 @@
         },
         {
           "player": "gold",
-          "score": 1718
+          "score": 1726
         },
         {
           "player": "Apponir",
@@ -307,8 +307,8 @@
       ],
       "statistics": {
         "total_players": 23,
-        "total_score": 356035,
-        "average_score": 15479.78,
+        "total_score": 356099,
+        "average_score": 15482.57,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -324,7 +324,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 16787968
+          "score": 16951248
         },
         {
           "player": "violawan",
@@ -396,7 +396,7 @@
         },
         {
           "player": "gold",
-          "score": 8
+          "score": 19
         },
         {
           "player": "etern_",
@@ -409,10 +409,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 16821683,
-        "average_score": 801032.52,
+        "total_score": 16984974,
+        "average_score": 808808.29,
         "top_player": "ZHAOMH233",
-        "top_score": 16787968
+        "top_score": 16951248
       },
       "objective_info": {
         "Name": "KillEntityList",
