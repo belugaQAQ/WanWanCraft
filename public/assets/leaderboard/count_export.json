@@ -1,12 +1,12 @@
 {
-  "export_time": "2026-04-09 22:51:43",
+  "export_time": "2026-04-09 23:51:46",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
       "display_slot": null,
-      "player_count": 21,
+      "player_count": 22,
       "player_scores": [
         {
           "player": "shekongQWQ",
@@ -34,7 +34,7 @@
         },
         {
           "player": "gold",
-          "score": 4
+          "score": 6
         },
         {
           "player": "ZHAOMH233",
@@ -51,6 +51,10 @@
         {
           "player": "2",
           "score": 3
+        },
+        {
+          "player": "redmountain_qaq",
+          "score": 2
         },
         {
           "player": "Vencywaltz",
@@ -94,9 +98,9 @@
         }
       ],
       "statistics": {
-        "total_players": 21,
-        "total_score": 233,
-        "average_score": 11.1,
+        "total_players": 22,
+        "total_score": 237,
+        "average_score": 10.77,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -116,7 +120,7 @@
         },
         {
           "player": "redmountain_qaq",
-          "score": 17644
+          "score": 17787
         },
         {
           "player": "shekongQWQ",
@@ -168,7 +172,7 @@
         },
         {
           "player": "gold",
-          "score": 211
+          "score": 236
         },
         {
           "player": "Apponir",
@@ -197,8 +201,8 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 205137,
-        "average_score": 9768.43,
+        "total_score": 205305,
+        "average_score": 9776.43,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -222,7 +226,7 @@
         },
         {
           "player": "redmountain_qaq",
-          "score": 30598
+          "score": 30603
         },
         {
           "player": "ling",
@@ -274,7 +278,7 @@
         },
         {
           "player": "gold",
-          "score": 2320
+          "score": 2941
         },
         {
           "player": "Apponir",
@@ -307,8 +311,8 @@
       ],
       "statistics": {
         "total_players": 23,
-        "total_score": 356693,
-        "average_score": 15508.39,
+        "total_score": 357319,
+        "average_score": 15535.61,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -324,7 +328,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 17264119
+          "score": 17426486
         },
         {
           "player": "violawan",
@@ -409,10 +413,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 17297846,
-        "average_score": 823706.95,
+        "total_score": 17460213,
+        "average_score": 831438.71,
         "top_player": "ZHAOMH233",
-        "top_score": 17264119
+        "top_score": 17426486
       },
       "objective_info": {
         "Name": "KillEntityList",
@@ -422,7 +426,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 86,
+    "total_players_across_objectives": 87,
     "objectives_found": [
       "DeathList",
       "PlacingList",
