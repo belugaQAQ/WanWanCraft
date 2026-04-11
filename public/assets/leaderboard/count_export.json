@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-11 13:55:34",
+  "export_time": "2026-04-11 14:55:38",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -111,7 +111,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 21,
       "player_scores": [
         {
@@ -213,7 +213,7 @@
       }
     },
     "MiningList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 23,
       "player_scores": [
         {
@@ -328,7 +328,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 23619862
+          "score": 23768971
         },
         {
           "player": "violawan",
@@ -413,10 +413,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 23653610,
-        "average_score": 1126362.38,
+        "total_score": 23802719,
+        "average_score": 1133462.81,
         "top_player": "ZHAOMH233",
-        "top_score": 23619862
+        "top_score": 23768971
       },
       "objective_info": {
         "Name": "KillEntityList",
