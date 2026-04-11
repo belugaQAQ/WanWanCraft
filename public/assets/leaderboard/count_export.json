@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-11 10:55:26",
+  "export_time": "2026-04-11 11:55:29",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -328,7 +328,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 23129444
+          "score": 23293226
         },
         {
           "player": "violawan",
@@ -413,10 +413,10 @@
       ],
       "statistics": {
         "total_players": 21,
-        "total_score": 23163192,
-        "average_score": 1103009.14,
+        "total_score": 23326974,
+        "average_score": 1110808.29,
         "top_player": "ZHAOMH233",
-        "top_score": 23129444
+        "top_score": 23293226
       },
       "objective_info": {
         "Name": "KillEntityList",
