@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-12 22:57:44",
+  "export_time": "2026-04-12 23:57:46",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -139,12 +139,12 @@
           "score": 9406
         },
         {
-          "player": "AiFuXi",
-          "score": 9317
+          "player": "Takanou_Lizy",
+          "score": 9362
         },
         {
-          "player": "Takanou_Lizy",
-          "score": 9230
+          "player": "AiFuXi",
+          "score": 9317
         },
         {
           "player": "Wu_Nen233",
@@ -205,8 +205,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 207078,
-        "average_score": 9412.64,
+        "total_score": 207210,
+        "average_score": 9418.64,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -242,7 +242,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 17038
+          "score": 17249
         },
         {
           "player": "beluga14514",
@@ -319,8 +319,8 @@
       ],
       "statistics": {
         "total_players": 24,
-        "total_score": 359399,
-        "average_score": 14974.96,
+        "total_score": 359610,
+        "average_score": 14983.75,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -336,7 +336,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 28943096
+          "score": 29105695
         },
         {
           "player": "violawan",
@@ -356,7 +356,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 2562
+          "score": 2587
         },
         {
           "player": "xizhe987",
@@ -425,10 +425,10 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 28976856,
-        "average_score": 1317129.82,
+        "total_score": 29139480,
+        "average_score": 1324521.82,
         "top_player": "ZHAOMH233",
-        "top_score": 28943096
+        "top_score": 29105695
       },
       "objective_info": {
         "Name": "KillEntityList",
