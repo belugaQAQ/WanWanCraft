@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-12 21:57:41",
+  "export_time": "2026-04-12 22:57:44",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -144,7 +144,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 9198
+          "score": 9230
         },
         {
           "player": "Wu_Nen233",
@@ -205,8 +205,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 207046,
-        "average_score": 9411.18,
+        "total_score": 207078,
+        "average_score": 9412.64,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -242,7 +242,7 @@
         },
         {
           "player": "Takanou_Lizy",
-          "score": 16958
+          "score": 17038
         },
         {
           "player": "beluga14514",
@@ -319,8 +319,8 @@
       ],
       "statistics": {
         "total_players": 24,
-        "total_score": 359319,
-        "average_score": 14971.62,
+        "total_score": 359399,
+        "average_score": 14974.96,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -336,7 +336,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 28779838
+          "score": 28943096
         },
         {
           "player": "violawan",
@@ -425,10 +425,10 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 28813598,
-        "average_score": 1309709.0,
+        "total_score": 28976856,
+        "average_score": 1317129.82,
         "top_player": "ZHAOMH233",
-        "top_score": 28779838
+        "top_score": 28943096
       },
       "objective_info": {
         "Name": "KillEntityList",
