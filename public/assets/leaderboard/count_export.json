@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-04-13 07:58:05",
+  "export_time": "2026-04-13 10:00:22",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 22,
       "player_scores": [
         {
@@ -111,7 +111,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 22,
       "player_scores": [
         {
@@ -336,7 +336,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 30410220
+          "score": 30750853
         },
         {
           "player": "violawan",
@@ -425,10 +425,10 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 30444005,
-        "average_score": 1383818.41,
+        "total_score": 30784638,
+        "average_score": 1399301.73,
         "top_player": "ZHAOMH233",
-        "top_score": 30410220
+        "top_score": 30750853
       },
       "objective_info": {
         "Name": "KillEntityList",
