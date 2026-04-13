@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-13 15:00:37",
+  "export_time": "2026-04-13 16:00:41",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -53,6 +53,10 @@
           "score": 3
         },
         {
+          "player": "NeitfinMiDI",
+          "score": 2
+        },
+        {
           "player": "redmountain_qaq",
           "score": 2
         },
@@ -81,10 +85,6 @@
           "score": 1
         },
         {
-          "player": "NeitfinMiDI",
-          "score": 1
-        },
-        {
           "player": "4",
           "score": 1
         },
@@ -99,8 +99,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 248,
-        "average_score": 11.27,
+        "total_score": 249,
+        "average_score": 11.32,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -336,7 +336,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 31565826
+          "score": 31727646
         },
         {
           "player": "violawan",
@@ -425,10 +425,10 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 31599611,
-        "average_score": 1436345.95,
+        "total_score": 31761431,
+        "average_score": 1443701.41,
         "top_player": "ZHAOMH233",
-        "top_score": 31565826
+        "top_score": 31727646
       },
       "objective_info": {
         "Name": "KillEntityList",
