@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-14 11:01:51",
+  "export_time": "2026-04-14 12:01:53",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -164,7 +164,7 @@
         },
         {
           "player": "Shirobana",
-          "score": 2904
+          "score": 2905
         },
         {
           "player": "gold",
@@ -205,8 +205,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 207581,
-        "average_score": 9435.5,
+        "total_score": 207582,
+        "average_score": 9435.55,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -265,12 +265,12 @@
           "score": 7807
         },
         {
-          "player": "LingAgo",
-          "score": 4448
+          "player": "Shirobana",
+          "score": 4497
         },
         {
-          "player": "Shirobana",
-          "score": 4418
+          "player": "LingAgo",
+          "score": 4448
         },
         {
           "player": "gold",
@@ -319,8 +319,8 @@
       ],
       "statistics": {
         "total_players": 24,
-        "total_score": 360235,
-        "average_score": 15009.79,
+        "total_score": 360314,
+        "average_score": 15013.08,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -336,7 +336,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 34821922
+          "score": 34985742
         },
         {
           "player": "violawan",
@@ -425,10 +425,10 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 34855707,
-        "average_score": 1584350.32,
+        "total_score": 35019527,
+        "average_score": 1591796.68,
         "top_player": "ZHAOMH233",
-        "top_score": 34821922
+        "top_score": 34985742
       },
       "objective_info": {
         "Name": "KillEntityList",
