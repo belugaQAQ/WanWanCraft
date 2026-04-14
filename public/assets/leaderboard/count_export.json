@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-14 17:02:26",
+  "export_time": "2026-04-14 18:02:29",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -120,7 +120,7 @@
         },
         {
           "player": "redmountain_qaq",
-          "score": 17787
+          "score": 17794
         },
         {
           "player": "shekongQWQ",
@@ -205,8 +205,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 207582,
-        "average_score": 9435.55,
+        "total_score": 207589,
+        "average_score": 9435.86,
         "top_player": "ZHAOMH233",
         "top_score": 95476
       },
@@ -230,7 +230,7 @@
         },
         {
           "player": "redmountain_qaq",
-          "score": 30603
+          "score": 30627
         },
         {
           "player": "ling",
@@ -319,8 +319,8 @@
       ],
       "statistics": {
         "total_players": 24,
-        "total_score": 360314,
-        "average_score": 15013.08,
+        "total_score": 360338,
+        "average_score": 15014.08,
         "top_player": "ZHAOMH233",
         "top_score": 158807
       },
@@ -336,7 +336,7 @@
       "player_scores": [
         {
           "player": "ZHAOMH233",
-          "score": 35801282
+          "score": 35963809
         },
         {
           "player": "violawan",
@@ -425,10 +425,10 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 35835067,
-        "average_score": 1628866.68,
+        "total_score": 35997594,
+        "average_score": 1636254.27,
         "top_player": "ZHAOMH233",
-        "top_score": 35801282
+        "top_score": 35963809
       },
       "objective_info": {
         "Name": "KillEntityList",
