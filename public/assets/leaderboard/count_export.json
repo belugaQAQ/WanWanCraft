@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-19 20:12:51",
+  "export_time": "2026-04-19 21:12:56",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -45,6 +45,10 @@
           "score": 3
         },
         {
+          "player": "Vencywaltz",
+          "score": 3
+        },
+        {
           "player": "1",
           "score": 3
         },
@@ -58,10 +62,6 @@
         },
         {
           "player": "redmountain_qaq",
-          "score": 2
-        },
-        {
-          "player": "Vencywaltz",
           "score": 2
         },
         {
@@ -99,8 +99,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 250,
-        "average_score": 11.36,
+        "total_score": 251,
+        "average_score": 11.41,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
