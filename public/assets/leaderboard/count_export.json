@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-24 12:19:16",
+  "export_time": "2026-04-24 13:19:19",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -112,7 +112,7 @@
     },
     "PlacingList": {
       "display_slot": null,
-      "player_count": 22,
+      "player_count": 23,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -191,6 +191,10 @@
           "score": 7
         },
         {
+          "player": "DanDamEggy",
+          "score": 5
+        },
+        {
           "player": "etern_",
           "score": 2
         },
@@ -204,9 +208,9 @@
         }
       ],
       "statistics": {
-        "total_players": 22,
-        "total_score": 308384,
-        "average_score": 14017.45,
+        "total_players": 23,
+        "total_score": 308389,
+        "average_score": 13408.22,
         "top_player": "ZHAOMH233",
         "top_score": 196141
       },
@@ -218,7 +222,7 @@
     },
     "MiningList": {
       "display_slot": null,
-      "player_count": 24,
+      "player_count": 25,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -301,6 +305,10 @@
           "score": 9
         },
         {
+          "player": "DanDamEggy",
+          "score": 5
+        },
+        {
           "player": "Temp",
           "score": 5
         },
@@ -318,9 +326,9 @@
         }
       ],
       "statistics": {
-        "total_players": 24,
-        "total_score": 381912,
-        "average_score": 15913.0,
+        "total_players": 25,
+        "total_score": 381917,
+        "average_score": 15276.68,
         "top_player": "ZHAOMH233",
         "top_score": 180217
       },
@@ -438,7 +446,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 90,
+    "total_players_across_objectives": 92,
     "objectives_found": [
       "DeathList",
       "PlacingList",
