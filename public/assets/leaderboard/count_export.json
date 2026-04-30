@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-30 21:54:22",
+  "export_time": "2026-04-30 21:58:03",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -111,7 +111,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 24,
       "player_scores": [
         {
@@ -225,7 +225,7 @@
       }
     },
     "MiningList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 26,
       "player_scores": [
         {
