@@ -1,19 +1,24 @@
 {
-  "export_time": "2026-05-01 13:58:08",
+  "export_time": "2026-05-01 14:58:12",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 1,
+      "player_scores": [
+        {
+          "player": "Takanou_Lizy",
+          "score": 3
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 1,
+        "total_score": 3,
+        "average_score": 3.0,
+        "top_player": "Takanou_Lizy",
+        "top_score": 3
       },
       "objective_info": {
         "Name": "DeathList",
@@ -74,7 +79,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 0,
+    "total_players_across_objectives": 1,
     "objectives_found": [
       "DeathList",
       "PlacingList",
