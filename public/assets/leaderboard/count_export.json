@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-05-01 15:58:14",
+  "export_time": "2026-05-01 16:58:17",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -10,11 +10,11 @@
       "player_scores": [
         {
           "player": "Takanou_Lizy",
-          "score": 7
+          "score": 13
         },
         {
           "player": "PoignantSun1358",
-          "score": 6
+          "score": 8
         },
         {
           "player": "beluga14514",
@@ -23,10 +23,10 @@
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 18,
-        "average_score": 6.0,
+        "total_score": 26,
+        "average_score": 8.67,
         "top_player": "Takanou_Lizy",
-        "top_score": 7
+        "top_score": 13
       },
       "objective_info": {
         "Name": "DeathList",
@@ -39,24 +39,24 @@
       "player_count": 3,
       "player_scores": [
         {
-          "player": "beluga14514",
-          "score": 65
-        },
-        {
           "player": "Takanou_Lizy",
-          "score": 43
+          "score": 152
         },
         {
           "player": "PoignantSun1358",
-          "score": 40
+          "score": 67
+        },
+        {
+          "player": "beluga14514",
+          "score": 65
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 148,
-        "average_score": 49.33,
-        "top_player": "beluga14514",
-        "top_score": 65
+        "total_score": 284,
+        "average_score": 94.67,
+        "top_player": "Takanou_Lizy",
+        "top_score": 152
       },
       "objective_info": {
         "Name": "PlacingList",
@@ -69,24 +69,24 @@
       "player_count": 3,
       "player_scores": [
         {
-          "player": "beluga14514",
-          "score": 180
-        },
-        {
           "player": "Takanou_Lizy",
-          "score": 178
+          "score": 326
         },
         {
           "player": "PoignantSun1358",
-          "score": 125
+          "score": 223
+        },
+        {
+          "player": "beluga14514",
+          "score": 180
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 483,
-        "average_score": 161.0,
-        "top_player": "beluga14514",
-        "top_score": 180
+        "total_score": 729,
+        "average_score": 243.0,
+        "top_player": "Takanou_Lizy",
+        "top_score": 326
       },
       "objective_info": {
         "Name": "MiningList",
@@ -100,11 +100,11 @@
       "player_scores": [
         {
           "player": "Takanou_Lizy",
-          "score": 22
+          "score": 42
         },
         {
           "player": "PoignantSun1358",
-          "score": 12
+          "score": 18
         },
         {
           "player": "beluga14514",
@@ -113,10 +113,10 @@
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 39,
-        "average_score": 13.0,
+        "total_score": 65,
+        "average_score": 21.67,
         "top_player": "Takanou_Lizy",
-        "top_score": 22
+        "top_score": 42
       },
       "objective_info": {
         "Name": "KillEntityList",
