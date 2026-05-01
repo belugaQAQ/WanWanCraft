@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-05-01 12:21:22",
+  "export_time": "2026-05-01 12:58:05",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -18,36 +18,26 @@
     },
     "PlacingList": {
       "display_slot": null,
-      "player_count": 1,
-      "player_scores": [
-        {
-          "player": "beluga14514",
-          "score": 1
-        }
-      ],
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 1,
-        "total_score": 1,
-        "average_score": 1.0,
-        "top_player": "beluga14514",
-        "top_score": 1
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       }
     },
     "MiningList": {
       "display_slot": null,
-      "player_count": 1,
-      "player_scores": [
-        {
-          "player": "beluga14514",
-          "score": 14
-        }
-      ],
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 1,
-        "total_score": 14,
-        "average_score": 14.0,
-        "top_player": "beluga14514",
-        "top_score": 14
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       }
     },
     "KillEntityList": {
@@ -64,7 +54,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 2,
+    "total_players_across_objectives": 0,
     "objectives_found": [
       "DeathList",
       "PlacingList",
