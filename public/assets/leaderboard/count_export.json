@@ -1,24 +1,32 @@
 {
-  "export_time": "2026-05-01 14:58:12",
+  "export_time": "2026-05-01 15:58:14",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
       "display_slot": null,
-      "player_count": 1,
+      "player_count": 3,
       "player_scores": [
         {
           "player": "Takanou_Lizy",
-          "score": 3
+          "score": 7
+        },
+        {
+          "player": "PoignantSun1358",
+          "score": 6
+        },
+        {
+          "player": "beluga14514",
+          "score": 5
         }
       ],
       "statistics": {
-        "total_players": 1,
-        "total_score": 3,
-        "average_score": 3.0,
+        "total_players": 3,
+        "total_score": 18,
+        "average_score": 6.0,
         "top_player": "Takanou_Lizy",
-        "top_score": 3
+        "top_score": 7
       },
       "objective_info": {
         "Name": "DeathList",
@@ -28,14 +36,27 @@
     },
     "PlacingList": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 3,
+      "player_scores": [
+        {
+          "player": "beluga14514",
+          "score": 65
+        },
+        {
+          "player": "Takanou_Lizy",
+          "score": 43
+        },
+        {
+          "player": "PoignantSun1358",
+          "score": 40
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 3,
+        "total_score": 148,
+        "average_score": 49.33,
+        "top_player": "beluga14514",
+        "top_score": 65
       },
       "objective_info": {
         "Name": "PlacingList",
@@ -45,14 +66,27 @@
     },
     "MiningList": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 3,
+      "player_scores": [
+        {
+          "player": "beluga14514",
+          "score": 180
+        },
+        {
+          "player": "Takanou_Lizy",
+          "score": 178
+        },
+        {
+          "player": "PoignantSun1358",
+          "score": 125
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 3,
+        "total_score": 483,
+        "average_score": 161.0,
+        "top_player": "beluga14514",
+        "top_score": 180
       },
       "objective_info": {
         "Name": "MiningList",
@@ -62,14 +96,27 @@
     },
     "KillEntityList": {
       "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 3,
+      "player_scores": [
+        {
+          "player": "Takanou_Lizy",
+          "score": 22
+        },
+        {
+          "player": "PoignantSun1358",
+          "score": 12
+        },
+        {
+          "player": "beluga14514",
+          "score": 5
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 3,
+        "total_score": 39,
+        "average_score": 13.0,
+        "top_player": "Takanou_Lizy",
+        "top_score": 22
       },
       "objective_info": {
         "Name": "KillEntityList",
@@ -79,7 +126,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 1,
+    "total_players_across_objectives": 12,
     "objectives_found": [
       "DeathList",
       "PlacingList",
