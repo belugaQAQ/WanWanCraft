@@ -1,32 +1,108 @@
 {
-  "export_time": "2026-05-01 16:58:17",
+  "export_time": "2026-05-04 13:23:55",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
       "display_slot": null,
-      "player_count": 3,
+      "player_count": 22,
       "player_scores": [
         {
-          "player": "Takanou_Lizy",
-          "score": 13
+          "player": "shekongQWQ",
+          "score": 80
         },
         {
-          "player": "PoignantSun1358",
-          "score": 8
+          "player": "Takanou_Lizy",
+          "score": 40
         },
         {
           "player": "beluga14514",
-          "score": 5
+          "score": 30
+        },
+        {
+          "player": "violawan",
+          "score": 21
+        },
+        {
+          "player": "ZHAOMH2333",
+          "score": 19
+        },
+        {
+          "player": "AiFuXi",
+          "score": 16
+        },
+        {
+          "player": "gold",
+          "score": 16
+        },
+        {
+          "player": "ZHAOMH233",
+          "score": 3
+        },
+        {
+          "player": "Temp",
+          "score": 3
+        },
+        {
+          "player": "Vencywaltz",
+          "score": 3
+        },
+        {
+          "player": "1",
+          "score": 3
+        },
+        {
+          "player": "2",
+          "score": 3
+        },
+        {
+          "player": "NeitfinMiDI",
+          "score": 2
+        },
+        {
+          "player": "redmountain_qaq",
+          "score": 2
+        },
+        {
+          "player": "Blackcat_Mary",
+          "score": 2
+        },
+        {
+          "player": "dlklnc_zhao",
+          "score": 2
+        },
+        {
+          "player": "Wu_Nen233",
+          "score": 1
+        },
+        {
+          "player": "shuashiji",
+          "score": 1
+        },
+        {
+          "player": "5",
+          "score": 1
+        },
+        {
+          "player": "4",
+          "score": 1
+        },
+        {
+          "player": "3",
+          "score": 1
+        },
+        {
+          "player": "be14514luga",
+          "score": 1
         }
       ],
       "statistics": {
-        "total_players": 3,
-        "total_score": 26,
-        "average_score": 8.67,
-        "top_player": "Takanou_Lizy",
-        "top_score": 13
+        "total_players": 22,
+        "total_score": 251,
+        "average_score": 11.41,
+        "top_player": "shekongQWQ",
+        "top_score": 80
       },
       "objective_info": {
         "Name": "DeathList",
@@ -36,27 +112,111 @@
     },
     "PlacingList": {
       "display_slot": null,
-      "player_count": 3,
+      "player_count": 24,
       "player_scores": [
         {
-          "player": "Takanou_Lizy",
-          "score": 152
+          "player": "ZHAOMH233",
+          "score": 196141
         },
         {
-          "player": "PoignantSun1358",
-          "score": 67
+          "player": "redmountain_qaq",
+          "score": 17794
+        },
+        {
+          "player": "shekongQWQ",
+          "score": 16633
         },
         {
           "player": "beluga14514",
-          "score": 65
+          "score": 11865
+        },
+        {
+          "player": "violawan",
+          "score": 10355
+        },
+        {
+          "player": "Takanou_Lizy",
+          "score": 9851
+        },
+        {
+          "player": "ling",
+          "score": 9406
+        },
+        {
+          "player": "AiFuXi",
+          "score": 9329
+        },
+        {
+          "player": "Wu_Nen233",
+          "score": 8896
+        },
+        {
+          "player": "NeitfinMiDI",
+          "score": 5037
+        },
+        {
+          "player": "Rikka_Rin",
+          "score": 4146
+        },
+        {
+          "player": "xizhe987",
+          "score": 3457
+        },
+        {
+          "player": "Shirobana",
+          "score": 2905
+        },
+        {
+          "player": "gold",
+          "score": 1444
+        },
+        {
+          "player": "Leshian",
+          "score": 944
+        },
+        {
+          "player": "Apponir",
+          "score": 143
+        },
+        {
+          "player": "Blackcat_Mary",
+          "score": 16
+        },
+        {
+          "player": "ZHAOMH2333",
+          "score": 11
+        },
+        {
+          "player": "sleep_zhao",
+          "score": 7
+        },
+        {
+          "player": "Emmm_lll",
+          "score": 6
+        },
+        {
+          "player": "DanDamEggy",
+          "score": 5
+        },
+        {
+          "player": "etern_",
+          "score": 2
+        },
+        {
+          "player": "ppp",
+          "score": 1
+        },
+        {
+          "player": "be14514luga",
+          "score": 1
         }
       ],
       "statistics": {
-        "total_players": 3,
-        "total_score": 284,
-        "average_score": 94.67,
-        "top_player": "Takanou_Lizy",
-        "top_score": 152
+        "total_players": 24,
+        "total_score": 308395,
+        "average_score": 12849.79,
+        "top_player": "ZHAOMH233",
+        "top_score": 196141
       },
       "objective_info": {
         "Name": "PlacingList",
@@ -66,27 +226,119 @@
     },
     "MiningList": {
       "display_slot": null,
-      "player_count": 3,
+      "player_count": 26,
       "player_scores": [
         {
-          "player": "Takanou_Lizy",
-          "score": 326
+          "player": "ZHAOMH233",
+          "score": 180217
         },
         {
-          "player": "PoignantSun1358",
-          "score": 223
+          "player": "shekongQWQ",
+          "score": 34097
+        },
+        {
+          "player": "redmountain_qaq",
+          "score": 30627
+        },
+        {
+          "player": "ling",
+          "score": 27960
+        },
+        {
+          "player": "violawan",
+          "score": 18695
+        },
+        {
+          "player": "Takanou_Lizy",
+          "score": 18031
         },
         {
           "player": "beluga14514",
-          "score": 180
+          "score": 13370
+        },
+        {
+          "player": "Wu_Nen233",
+          "score": 10508
+        },
+        {
+          "player": "xizhe987",
+          "score": 10474
+        },
+        {
+          "player": "AiFuXi",
+          "score": 9665
+        },
+        {
+          "player": "NeitfinMiDI",
+          "score": 7807
+        },
+        {
+          "player": "Shirobana",
+          "score": 4497
+        },
+        {
+          "player": "LingAgo",
+          "score": 4448
+        },
+        {
+          "player": "gold",
+          "score": 4002
+        },
+        {
+          "player": "www",
+          "score": 3774
+        },
+        {
+          "player": "Rikka_Rin",
+          "score": 3410
+        },
+        {
+          "player": "Apponir",
+          "score": 144
+        },
+        {
+          "player": "Blackcat_Mary",
+          "score": 129
+        },
+        {
+          "player": "ZHAOMH2333",
+          "score": 35
+        },
+        {
+          "player": "ppp",
+          "score": 9
+        },
+        {
+          "player": "DanDamEggy",
+          "score": 5
+        },
+        {
+          "player": "Temp",
+          "score": 5
+        },
+        {
+          "player": "etern_",
+          "score": 5
+        },
+        {
+          "player": "Emmm_lll",
+          "score": 4
+        },
+        {
+          "player": "ZHAOMH23333",
+          "score": 2
+        },
+        {
+          "player": "dlklnc_zhao",
+          "score": 1
         }
       ],
       "statistics": {
-        "total_players": 3,
-        "total_score": 729,
-        "average_score": 243.0,
-        "top_player": "Takanou_Lizy",
-        "top_score": 326
+        "total_players": 26,
+        "total_score": 381921,
+        "average_score": 14689.27,
+        "top_player": "ZHAOMH233",
+        "top_score": 180217
       },
       "objective_info": {
         "Name": "MiningList",
@@ -96,27 +348,103 @@
     },
     "KillEntityList": {
       "display_slot": null,
-      "player_count": 3,
+      "player_count": 22,
       "player_scores": [
         {
-          "player": "Takanou_Lizy",
-          "score": 42
+          "player": "ZHAOMH233",
+          "score": 40351847
         },
         {
-          "player": "PoignantSun1358",
-          "score": 18
+          "player": "violawan",
+          "score": 10317
+        },
+        {
+          "player": "1",
+          "score": 5689
+        },
+        {
+          "player": "shekongQWQ",
+          "score": 2964
+        },
+        {
+          "player": "2",
+          "score": 2790
+        },
+        {
+          "player": "Takanou_Lizy",
+          "score": 2665
+        },
+        {
+          "player": "xizhe987",
+          "score": 2429
+        },
+        {
+          "player": "ling",
+          "score": 2164
+        },
+        {
+          "player": "Wu_Nen233",
+          "score": 1164
+        },
+        {
+          "player": "hexa763",
+          "score": 1079
+        },
+        {
+          "player": "3",
+          "score": 645
+        },
+        {
+          "player": "AiFuXi",
+          "score": 447
+        },
+        {
+          "player": "Shirobana",
+          "score": 371
+        },
+        {
+          "player": "dlklnc_sj_zhao",
+          "score": 343
         },
         {
           "player": "beluga14514",
-          "score": 5
+          "score": 325
+        },
+        {
+          "player": "redmountain_qaq",
+          "score": 200
+        },
+        {
+          "player": "NeitfinMiDI",
+          "score": 166
+        },
+        {
+          "player": "ZHAOMH2333",
+          "score": 71
+        },
+        {
+          "player": "gold",
+          "score": 20
+        },
+        {
+          "player": "ppp",
+          "score": 12
+        },
+        {
+          "player": "etern_",
+          "score": 2
+        },
+        {
+          "player": "Rikka_Rin",
+          "score": 1
         }
       ],
       "statistics": {
-        "total_players": 3,
-        "total_score": 65,
-        "average_score": 21.67,
-        "top_player": "Takanou_Lizy",
-        "top_score": 42
+        "total_players": 22,
+        "total_score": 40385711,
+        "average_score": 1835714.14,
+        "top_player": "ZHAOMH233",
+        "top_score": 40351847
       },
       "objective_info": {
         "Name": "KillEntityList",
@@ -126,7 +454,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 12,
+    "total_players_across_objectives": 94,
     "objectives_found": [
       "DeathList",
       "PlacingList",
