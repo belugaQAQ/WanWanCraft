@@ -151,7 +151,7 @@ export const websiteConfig = {
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: true, // 是否启用外链模式
-        externalUrl: "http://mc.classisband.xyz:42764/", 
+        externalUrl: "http://mc.classisband.xyz:19269", 
       },
     ],
     // 添加新页面时，只需在这里添加新的导航项即可
@@ -187,7 +187,7 @@ export const websiteConfig = {
   // 服务器配置
   server: {
     // 页面显示的服务器地址
-    displayAddress: "mc.classisband.xyz:37372",
+    displayAddress: "mc.classisband.xyz:19269",
     // API请求使用的服务器地址（可以不同）
     apiAddress: "mc.classisband.xyz",
     port: "37372",
