@@ -190,7 +190,7 @@ export const websiteConfig = {
     displayAddress: "mc.classisband.xyz:19269",
     // API请求使用的服务器地址（可以不同）
     apiAddress: "mc.classisband.xyz",
-    port: "37372",
+    port: "19269",
     version: "1.21.8 支持BE",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
