@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-06-28 08:28:07",
+  "export_time": "2026-06-28 09:28:10",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -49,6 +49,10 @@
           "score": 3
         },
         {
+          "player": "be14514luga",
+          "score": 3
+        },
+        {
           "player": "1",
           "score": 3
         },
@@ -70,10 +74,6 @@
         },
         {
           "player": "dlklnc_zhao",
-          "score": 2
-        },
-        {
-          "player": "be14514luga",
           "score": 2
         },
         {
@@ -99,8 +99,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 252,
-        "average_score": 11.45,
+        "total_score": 253,
+        "average_score": 11.5,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
