@@ -111,7 +111,7 @@ export const websiteConfig = {
         pageTitle: {
           // 主标题配置（支持打字机效果）
           mainTitle: {
-            texts: ["WanWanCraft 文档", "Wan Doc"], // 多语言标题数组
+            texts: ["WanWanCraft 文档", "Wan Docs"], // 多语言标题数组
             typewriter: {
               enabled: true, // 是否启用打字机效果
               speed: 100,    // 打字速度（毫秒）
@@ -151,7 +151,7 @@ export const websiteConfig = {
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
         external: true, // 是否启用外链模式
-        externalUrl: "http://mc.classisband.xyz:19269", 
+        externalUrl: "http://world.classisband.xyz", 
       },
     ],
     // 添加新页面时，只需在这里添加新的导航项即可
@@ -187,11 +187,11 @@ export const websiteConfig = {
   // 服务器配置
   server: {
     // 页面显示的服务器地址
-    displayAddress: "mc.classisband.xyz:19269",
+    displayAddress: "mc.classisband.xyz",
     // API请求使用的服务器地址（可以不同）
     apiAddress: "mc.classisband.xyz",
     port: "19269",
-    version: "1.21.8 支持BE",
+    version: "1.21.11",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
 
@@ -278,7 +278,7 @@ export const websiteConfig = {
         icon: "info-sparkle-48-filled",
         items: [
           { label: "服务器类别", value: "云主机" },
-          { label: "CPU", value: "铂金8368(ES6)" },
+          { label: "CPU", value: "铂金8368Q" },
           { label: "内存", value: "16GB DDR5" },  
           { label: "类型", value: "生存，生电，互通" },
           { label: "最大玩家", value: "40人" },
