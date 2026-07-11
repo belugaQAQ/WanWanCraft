@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-11 12:44:04",
+  "export_time": "2026-07-11 15:08:48",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -305,6 +305,10 @@
           "score": 35
         },
         {
+          "player": "Emmm_lll",
+          "score": 11
+        },
+        {
           "player": "ppp",
           "score": 9
         },
@@ -321,10 +325,6 @@
           "score": 5
         },
         {
-          "player": "Emmm_lll",
-          "score": 4
-        },
-        {
           "player": "ZHAOMH23333",
           "score": 2
         },
@@ -335,8 +335,8 @@
       ],
       "statistics": {
         "total_players": 26,
-        "total_score": 382731,
-        "average_score": 14720.42,
+        "total_score": 382738,
+        "average_score": 14720.69,
         "top_player": "ZHAOMH233",
         "top_score": 180348
       },
