@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-07-01 22:55:34",
+  "export_time": "2026-07-11 12:44:04",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 22,
       "player_scores": [
         {
@@ -18,7 +18,7 @@
         },
         {
           "player": "beluga14514",
-          "score": 30
+          "score": 31
         },
         {
           "player": "violawan",
@@ -99,8 +99,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 253,
-        "average_score": 11.5,
+        "total_score": 254,
+        "average_score": 11.55,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -111,7 +111,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 24,
       "player_scores": [
         {
@@ -128,7 +128,7 @@
         },
         {
           "player": "beluga14514",
-          "score": 11865
+          "score": 13107
         },
         {
           "player": "violawan",
@@ -213,8 +213,8 @@
       ],
       "statistics": {
         "total_players": 24,
-        "total_score": 308626,
-        "average_score": 12859.42,
+        "total_score": 309868,
+        "average_score": 12911.17,
         "top_player": "ZHAOMH233",
         "top_score": 196372
       },
@@ -254,7 +254,7 @@
         },
         {
           "player": "beluga14514",
-          "score": 13370
+          "score": 14049
         },
         {
           "player": "Wu_Nen233",
@@ -335,8 +335,8 @@
       ],
       "statistics": {
         "total_players": 26,
-        "total_score": 382052,
-        "average_score": 14694.31,
+        "total_score": 382731,
+        "average_score": 14720.42,
         "top_player": "ZHAOMH233",
         "top_score": 180348
       },
@@ -399,16 +399,16 @@
           "score": 447
         },
         {
+          "player": "beluga14514",
+          "score": 384
+        },
+        {
           "player": "Shirobana",
           "score": 371
         },
         {
           "player": "dlklnc_sj_zhao",
           "score": 343
-        },
-        {
-          "player": "beluga14514",
-          "score": 325
         },
         {
           "player": "redmountain_qaq",
@@ -441,8 +441,8 @@
       ],
       "statistics": {
         "total_players": 22,
-        "total_score": 40385787,
-        "average_score": 1835717.59,
+        "total_score": 40385846,
+        "average_score": 1835720.27,
         "top_player": "ZHAOMH233",
         "top_score": 40351923
       },
