@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-07-12 07:21:34",
+  "export_time": "2026-07-12 11:28:35",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
@@ -111,7 +111,7 @@
       }
     },
     "PlacingList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 24,
       "player_scores": [
         {
@@ -128,7 +128,7 @@
         },
         {
           "player": "beluga14514",
-          "score": 13107
+          "score": 13115
         },
         {
           "player": "violawan",
@@ -213,8 +213,8 @@
       ],
       "statistics": {
         "total_players": 24,
-        "total_score": 309868,
-        "average_score": 12911.17,
+        "total_score": 309876,
+        "average_score": 12911.5,
         "top_player": "ZHAOMH233",
         "top_score": 196372
       },
@@ -225,7 +225,7 @@
       }
     },
     "MiningList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 26,
       "player_scores": [
         {
@@ -254,7 +254,7 @@
         },
         {
           "player": "beluga14514",
-          "score": 14049
+          "score": 14062
         },
         {
           "player": "Wu_Nen233",
@@ -335,8 +335,8 @@
       ],
       "statistics": {
         "total_players": 26,
-        "total_score": 382738,
-        "average_score": 14720.69,
+        "total_score": 382751,
+        "average_score": 14721.19,
         "top_player": "ZHAOMH233",
         "top_score": 180348
       },
