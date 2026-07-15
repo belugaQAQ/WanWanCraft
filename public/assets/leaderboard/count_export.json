@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-07-15 09:17:03",
+  "export_time": "2026-07-15 10:19:22",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": "sidebar",
+      "display_slot": null,
       "player_count": 22,
       "player_scores": [
         {
@@ -347,7 +347,7 @@
       }
     },
     "KillEntityList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 22,
       "player_scores": [
         {
