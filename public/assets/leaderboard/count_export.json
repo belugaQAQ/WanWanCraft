@@ -1,12 +1,12 @@
 {
-  "export_time": "2026-08-08 01:03:00",
+  "export_time": "2026-08-08 02:03:03",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
       "display_slot": null,
-      "player_count": 22,
+      "player_count": 23,
       "player_scores": [
         {
           "player": "shekongQWQ",
@@ -61,6 +61,10 @@
           "score": 3
         },
         {
+          "player": "Arro",
+          "score": 2
+        },
+        {
           "player": "NeitfinMiDI",
           "score": 2
         },
@@ -98,9 +102,9 @@
         }
       ],
       "statistics": {
-        "total_players": 22,
-        "total_score": 254,
-        "average_score": 11.55,
+        "total_players": 23,
+        "total_score": 256,
+        "average_score": 11.13,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -454,7 +458,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 94,
+    "total_players_across_objectives": 95,
     "objectives_found": [
       "DeathList",
       "PlacingList",
