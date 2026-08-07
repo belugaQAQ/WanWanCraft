@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-08-08 02:03:03",
+  "export_time": "2026-08-08 04:05:22",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": null,
+      "display_slot": "sidebar",
       "player_count": 23,
       "player_scores": [
         {
@@ -116,7 +116,7 @@
     },
     "PlacingList": {
       "display_slot": null,
-      "player_count": 24,
+      "player_count": 25,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -179,6 +179,10 @@
           "score": 944
         },
         {
+          "player": "Arro",
+          "score": 199
+        },
+        {
           "player": "Apponir",
           "score": 143
         },
@@ -216,9 +220,9 @@
         }
       ],
       "statistics": {
-        "total_players": 24,
-        "total_score": 309876,
-        "average_score": 12911.5,
+        "total_players": 25,
+        "total_score": 310075,
+        "average_score": 12403.0,
         "top_player": "ZHAOMH233",
         "top_score": 196372
       },
@@ -229,8 +233,8 @@
       }
     },
     "MiningList": {
-      "display_slot": "sidebar",
-      "player_count": 26,
+      "display_slot": null,
+      "player_count": 27,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -297,6 +301,10 @@
           "score": 3410
         },
         {
+          "player": "Arro",
+          "score": 226
+        },
+        {
           "player": "Apponir",
           "score": 144
         },
@@ -338,9 +346,9 @@
         }
       ],
       "statistics": {
-        "total_players": 26,
-        "total_score": 382751,
-        "average_score": 14721.19,
+        "total_players": 27,
+        "total_score": 382977,
+        "average_score": 14184.33,
         "top_player": "ZHAOMH233",
         "top_score": 180348
       },
@@ -352,7 +360,7 @@
     },
     "KillEntityList": {
       "display_slot": null,
-      "player_count": 22,
+      "player_count": 23,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -427,6 +435,10 @@
           "score": 71
         },
         {
+          "player": "Arro",
+          "score": 61
+        },
+        {
           "player": "gold",
           "score": 20
         },
@@ -444,9 +456,9 @@
         }
       ],
       "statistics": {
-        "total_players": 22,
-        "total_score": 40386083,
-        "average_score": 1835731.05,
+        "total_players": 23,
+        "total_score": 40386144,
+        "average_score": 1755919.3,
         "top_player": "ZHAOMH233",
         "top_score": 40352160
       },
@@ -458,7 +470,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 95,
+    "total_players_across_objectives": 98,
     "objectives_found": [
       "DeathList",
       "PlacingList",
