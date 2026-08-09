@@ -1,12 +1,12 @@
 {
-  "export_time": "2026-08-09 22:22:55",
+  "export_time": "2026-08-09 23:22:59",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 4,
   "objectives": {
     "DeathList": {
-      "display_slot": null,
-      "player_count": 23,
+      "display_slot": "sidebar",
+      "player_count": 24,
       "player_scores": [
         {
           "player": "shekongQWQ",
@@ -99,12 +99,16 @@
         {
           "player": "3",
           "score": 1
+        },
+        {
+          "player": "pandagood",
+          "score": 1
         }
       ],
       "statistics": {
-        "total_players": 23,
-        "total_score": 256,
-        "average_score": 11.13,
+        "total_players": 24,
+        "total_score": 257,
+        "average_score": 10.71,
         "top_player": "shekongQWQ",
         "top_score": 80
       },
@@ -115,8 +119,8 @@
       }
     },
     "PlacingList": {
-      "display_slot": "sidebar",
-      "player_count": 26,
+      "display_slot": null,
+      "player_count": 27,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -187,6 +191,14 @@
           "score": 143
         },
         {
+          "player": "223",
+          "score": 107
+        },
+        {
+          "player": "pandagood",
+          "score": 70
+        },
+        {
           "player": "Blackcat_Mary",
           "score": 16
         },
@@ -211,10 +223,6 @@
           "score": 2
         },
         {
-          "player": "223",
-          "score": 2
-        },
-        {
           "player": "ppp",
           "score": 1
         },
@@ -224,9 +232,9 @@
         }
       ],
       "statistics": {
-        "total_players": 26,
-        "total_score": 310077,
-        "average_score": 11926.04,
+        "total_players": 27,
+        "total_score": 310252,
+        "average_score": 11490.81,
         "top_player": "ZHAOMH233",
         "top_score": 196372
       },
@@ -238,7 +246,7 @@
     },
     "MiningList": {
       "display_slot": null,
-      "player_count": 28,
+      "player_count": 29,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -321,6 +329,10 @@
           "score": 35
         },
         {
+          "player": "223",
+          "score": 22
+        },
+        {
           "player": "Emmm_lll",
           "score": 11
         },
@@ -341,8 +353,8 @@
           "score": 5
         },
         {
-          "player": "223",
-          "score": 3
+          "player": "pandagood",
+          "score": 5
         },
         {
           "player": "ZHAOMH23333",
@@ -354,9 +366,9 @@
         }
       ],
       "statistics": {
-        "total_players": 28,
-        "total_score": 382980,
-        "average_score": 13677.86,
+        "total_players": 29,
+        "total_score": 383004,
+        "average_score": 13207.03,
         "top_player": "ZHAOMH233",
         "top_score": 180348
       },
@@ -368,7 +380,7 @@
     },
     "KillEntityList": {
       "display_slot": null,
-      "player_count": 23,
+      "player_count": 24,
       "player_scores": [
         {
           "player": "ZHAOMH233",
@@ -409,6 +421,10 @@
         {
           "player": "hexa763",
           "score": 1079
+        },
+        {
+          "player": "pandagood",
+          "score": 759
         },
         {
           "player": "3",
@@ -464,9 +480,9 @@
         }
       ],
       "statistics": {
-        "total_players": 23,
-        "total_score": 40386144,
-        "average_score": 1755919.3,
+        "total_players": 24,
+        "total_score": 40386903,
+        "average_score": 1682787.62,
         "top_player": "ZHAOMH233",
         "top_score": 40352160
       },
@@ -478,7 +494,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 100,
+    "total_players_across_objectives": 104,
     "objectives_found": [
       "DeathList",
       "PlacingList",
